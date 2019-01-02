@@ -1,0 +1,1425 @@
+,ID,,,,Name,
+Level0,Level1,Level2,Level0,Level1,Level2,
+1,11,149,Women,Dresses,"Above knee, mini",
+1,11,150,Women,Dresses,Knee-length,
+1,11,151,Women,Dresses,Mid-calf,
+1,11,152,Women,Dresses,Full-length,
+1,11,153,Women,Dresses,"Asymmetrical hem",
+1,11,154,Women,Dresses,"Women's Dresses Other",X
+1,12,155,Women,"Tops & blouses","Women's Tops & blouses Blouse",X
+1,12,156,Women,"Tops & blouses","Button down shirt",
+1,12,157,Women,"Tops & blouses",Halter,
+1,12,158,Women,"Tops & blouses","Knit top",
+1,12,159,Women,"Tops & blouses","Polo shirt",
+1,12,160,Women,"Tops & blouses","Tank, cami",
+1,12,161,Women,"Tops & blouses","Women's Tops & blouses T-shirts",X
+1,12,162,Women,"Tops & blouses","Women's Tops & blouses Tunic",X
+1,12,163,Women,"Tops & blouses","Women's Tops & blouses Turtleneck",X
+1,12,164,Women,"Tops & blouses","Women's Tops & blouses Wrap",X
+1,12,165,Women,"Tops & blouses","Women's Tops & blouses Other",X
+1,13,166,Women,Sweaters,"Women's Sweaters Cardigan",X
+1,13,167,Women,Sweaters,Collared,
+1,13,168,Women,Sweaters,"Cowl neck",
+1,13,169,Women,Sweaters,"Women's Sweaters Crewneck",X
+1,13,170,Women,Sweaters,"Women's Sweaters Full zip",X
+1,13,171,Women,Sweaters,"Women's Sweaters Henley",X
+1,13,172,Women,Sweaters,Hooded,
+1,13,173,Women,Sweaters,"Women's Sweaters Poncho",X
+1,13,174,Women,Sweaters,"Scoop neck",
+1,13,175,Women,Sweaters,Shrug,
+1,13,176,Women,Sweaters,Sweatercoat,
+1,13,177,Women,Sweaters,"Women's Sweaters Tunic",X
+1,13,178,Women,Sweaters,"Turtleneck, mock",
+1,13,179,Women,Sweaters,"Vest, sleeveless",
+1,13,180,Women,Sweaters,"Women's Sweaters V-neck",X
+1,13,181,Women,Sweaters,"Women's Sweaters Wrap",X
+1,13,182,Women,Sweaters,"Women's Sweaters Other",X
+1,14,183,Women,Jeans,"Women's Jeans Boot cut",X
+1,14,184,Women,Jeans,Boyfriend,
+1,14,185,Women,Jeans,"Capri, cropped",
+1,14,186,Women,Jeans,"Women's Jeans Cargo",X
+1,14,187,Women,Jeans,Flare,
+1,14,188,Women,Jeans,Leggings,
+1,14,189,Women,Jeans,"Women's Jeans Overalls",X
+1,14,190,Women,Jeans,"Women's Jeans Relaxed",X
+1,14,191,Women,Jeans,"Women's Jeans Slim, skinny",X
+1,14,192,Women,Jeans,"Straight leg",
+1,14,193,Women,Jeans,"Wide leg",
+1,14,194,Women,Jeans,"Women's Jeans Other",X
+1,15,195,Women,Pants,"Capris, cropped",
+1,15,196,Women,Pants,"Women's Pants Cargo",X
+1,15,197,Women,Pants,"Women's Pants Casual pants",X
+1,15,198,Women,Pants,"Women's Pants Corduroys",X
+1,15,199,Women,Pants,"Dress pants",
+1,15,200,Women,Pants,"Women's Pants Khakis, chinos",X
+1,15,201,Women,Pants,"Women's Pants Leather",X
+1,15,202,Women,Pants,Linen,
+1,15,203,Women,Pants,"Women's Pants Other",X
+1,16,204,Women,Skirts,A-line,
+1,16,205,Women,Skirts,Asymmetrical,
+1,16,206,Women,Skirts,Bubble,
+1,16,207,Women,Skirts,"Full skirt",
+1,16,208,Women,Skirts,Maxi,
+1,16,209,Women,Skirts,"Women's Skirts Mini",X
+1,16,210,Women,Skirts,Peasant,
+1,16,211,Women,Skirts,Pleated,
+1,16,212,Women,Skirts,"Straight, pencil",
+1,16,213,Women,Skirts,Tiered,
+1,16,214,Women,Skirts,"Women's Skirts Wrap",X
+1,16,215,Women,Skirts,"Women's Skirts Other",X
+1,17,216,Women,"Coats & jackets",Cape,
+1,17,217,Women,"Coats & jackets","Women's Coats & jackets Fleece jacket",X
+1,17,218,Women,"Coats & jackets","Women's Coats & jackets Jean jacket",X
+1,17,219,Women,"Coats & jackets","Women's Coats & jackets Military",X
+1,17,220,Women,"Coats & jackets","Women's Coats & jackets Motorcycle",X
+1,17,221,Women,"Coats & jackets","Women's Coats & jackets Parka",X
+1,17,222,Women,"Coats & jackets","Women's Coats & jackets Peacoat",X
+1,17,223,Women,"Coats & jackets","Women's Coats & jackets Poncho",X
+1,17,224,Women,"Coats & jackets","Women's Coats & jackets Puffer",X
+1,17,225,Women,"Coats & jackets",Raincoat,
+1,17,226,Women,"Coats & jackets","Women's Coats & jackets Trench",X
+1,17,227,Women,"Coats & jackets","Women's Coats & jackets Vest",X
+1,17,228,Women,"Coats & jackets","Women's Coats & jackets Windbreaker",X
+1,17,229,Women,"Coats & jackets","Women's Coats & jackets Wool",X
+1,17,230,Women,"Coats & jackets","Women's Coats & jackets Other",X
+1,18,231,Women,"Suits & blazers",Blazer,
+1,18,232,Women,"Suits & blazers","Dress suit",
+1,18,233,Women,"Suits & blazers","Pant suit",
+1,18,234,Women,"Suits & blazers","Skirt suit",
+1,18,235,Women,"Suits & blazers","Women's Suits & blazers Other",X
+1,19,236,Women,"Athletic apparel","Women's Athletic apparel Jackets",X
+1,19,237,Women,"Athletic apparel","Women's Athletic apparel Jerseys",X
+1,19,238,Women,"Athletic apparel","Pants, tights, leggings",
+1,19,239,Women,"Athletic apparel","Women's Athletic apparel Shirts & tops",X
+1,19,240,Women,"Athletic apparel","Women's Athletic apparel Shorts",X
+1,19,241,Women,"Athletic apparel","Skirts, skorts & dresses",
+1,19,242,Women,"Athletic apparel","Women's Athletic apparel Snowsuits & bibs",X
+1,19,243,Women,"Athletic apparel","Women's Athletic apparel Socks",X
+1,19,244,Women,"Athletic apparel","Sports bras",
+1,19,245,Women,"Athletic apparel","Women's Athletic apparel Tracksuits & sweats",X
+1,19,246,Women,"Athletic apparel","Women's Athletic apparel Vests",X
+1,19,247,Women,"Athletic apparel","Women's Athletic apparel Other",X
+1,20,248,Women,Swimwear,One-piece,
+1,20,249,Women,Swimwear,Two-piece,
+1,20,250,Women,Swimwear,Cover-ups,
+1,20,251,Women,Swimwear,"Beach accessories",
+1,21,252,Women,"Women's handbags","Shoulder bag",
+1,21,253,Women,"Women's handbags","Totes & shoppers",
+1,21,254,Women,"Women's handbags","Messenger & crossbody",
+1,21,255,Women,"Women's handbags",Satchel,
+1,21,256,Women,"Women's handbags",Hobo,
+1,21,257,Women,"Women's handbags",Baguette,
+1,21,258,Women,"Women's handbags","Backpack style",
+1,21,259,Women,"Women's handbags","Cosmetic bags",
+1,21,260,Women,"Women's handbags","Women's Women's handbags Other",X
+1,22,261,Women,"Women's accessories","Women's Women's accessories Sunglasses",X
+1,22,262,Women,"Women's accessories","Women's Women's accessories Wallets",X
+1,22,263,Women,"Women's accessories","Scarves & wraps",
+1,22,264,Women,"Women's accessories","Women's Women's accessories Belts",X
+1,22,265,Women,"Women's accessories","Women's Women's accessories Hats",X
+1,22,266,Women,"Women's accessories","Hair accessories",
+1,22,267,Women,"Women's accessories","Women's Women's accessories Watches",X
+1,22,268,Women,"Women's accessories","Women's Women's accessories Other",X
+1,23,269,Women,Jewelry,Rings,
+1,23,270,Women,Jewelry,Necklaces,
+1,23,271,Women,Jewelry,"Women's Jewelry Earrings",X
+1,23,272,Women,Jewelry,Bracelets,
+1,24,273,Women,Maternity,"Women's Maternity Dresses",X
+1,24,274,Women,Maternity,"Tops & blouses",
+1,24,275,Women,Maternity,Sweaters,
+1,24,276,Women,Maternity,"Women's Maternity Jeans",X
+1,24,277,Women,Maternity,"Women's Maternity Pants",X
+1,24,278,Women,Maternity,Skirts,
+1,24,279,Women,Maternity,"Women's Maternity Coats & jackets",X
+1,24,280,Women,Maternity,"Suits & blazers",
+1,24,281,Women,Maternity,"Athletic apparel",
+1,24,282,Women,Maternity,"Women's Maternity Other",X
+1,25,283,Women,Shoes,"Women's Shoes Athletic",X
+1,25,284,Women,Shoes,"Women's Shoes Boots",X
+1,25,285,Women,Shoes,"Women's Shoes Fashion sneakers",X
+1,25,286,Women,Shoes,Flats,
+1,25,287,Women,Shoes,"Women's Shoes Loafers & slip-ons",X
+1,25,288,Women,Shoes,"Women's Shoes Mules & clogs",X
+1,25,289,Women,Shoes,"Women's Shoes Outdoor",X
+1,25,290,Women,Shoes,"Women's Shoes Oxfords",X
+1,25,291,Women,Shoes,Pumps,
+1,25,292,Women,Shoes,"Women's Shoes Sandals",X
+1,25,293,Women,Shoes,"Women's Shoes Slippers",X
+1,25,294,Women,Shoes,"Women's Shoes Work & safety",X
+1,25,295,Women,Shoes,"Women's Shoes Other",X
+1,26,296,Women,Other,"Women's Other Other",X
+2,27,297,Men,Tops,Button-front,
+2,27,298,Men,Tops,"Dress shirts",
+2,27,299,Men,Tops,Hawaiian,
+2,27,300,Men,Tops,"Men's Tops Henley",X
+2,27,301,Men,Tops,"Polo, rugby",
+2,27,302,Men,Tops,"Men's Tops Tank",X
+2,27,303,Men,Tops,"Men's Tops T-shirts",X
+2,27,304,Men,Tops,"Men's Tops Turtleneck",X
+2,27,305,Men,Tops,"Men's Tops Other",X
+2,28,306,Men,"Sweats & hoodies",Hoodie,
+2,28,307,Men,"Sweats & hoodies","Sweatshirt, pullover",
+2,28,308,Men,"Sweats & hoodies","Track & sweat pants",
+2,28,309,Men,"Sweats & hoodies","Track & sweat suits",
+2,28,310,Men,"Sweats & hoodies","Track jacket",
+2,28,311,Men,"Sweats & hoodies","Men's Sweats & hoodies Other",X
+2,29,312,Men,Sweaters,"Men's Sweaters Cardigan",X
+2,29,313,Men,Sweaters,"Men's Sweaters Crewneck",X
+2,29,314,Men,Sweaters,"Men's Sweaters Full zip",X
+2,29,315,Men,Sweaters,Polo,
+2,29,316,Men,Sweaters,"Men's Sweaters Turtleneck",X
+2,29,317,Men,Sweaters,"Men's Sweaters Vest",X
+2,29,318,Men,Sweaters,"Men's Sweaters V-neck",X
+2,29,319,Men,Sweaters,"Men's Sweaters Other",X
+2,30,320,Men,Jeans,"Baggy, loose",
+2,30,321,Men,Jeans,"Men's Jeans Boot cut",X
+2,30,322,Men,Jeans,"Men's Jeans Cargo",X
+2,30,323,Men,Jeans,"Men's Jeans Carpenter",X
+2,30,324,Men,Jeans,"Classic, straight leg",
+2,30,325,Men,Jeans,"Men's Jeans Overalls",X
+2,30,326,Men,Jeans,"Men's Jeans Relaxed",X
+2,30,327,Men,Jeans,"Men's Jeans Slim, skinny",X
+2,30,328,Men,Jeans,"Men's Jeans Other",X
+2,31,329,Men,Pants,"Men's Pants Cargo",X
+2,31,330,Men,Pants,"Men's Pants Carpenter",X
+2,31,331,Men,Pants,"Men's Pants Casual pants",X
+2,31,332,Men,Pants,"Men's Pants Corduroys",X
+2,31,333,Men,Pants,"Dress - flat front",
+2,31,334,Men,Pants,"Dress - pleat",
+2,31,335,Men,Pants,"Men's Pants Khakis, chinos",X
+2,31,336,Men,Pants,"Men's Pants Other",X
+2,32,337,Men,Shorts,"Men's Shorts Athletic",X
+2,32,338,Men,Shorts,"Board, surf",
+2,32,339,Men,Shorts,"Men's Shorts Cargo",X
+2,32,340,Men,Shorts,"Carpenter, utility",
+2,32,341,Men,Shorts,"Casual shorts",
+2,32,342,Men,Shorts,"Men's Shorts Corduroys",X
+2,32,343,Men,Shorts,Denim,
+2,32,344,Men,Shorts,"Dress shorts",
+2,32,345,Men,Shorts,"Men's Shorts Khakis, chinos",X
+2,32,346,Men,Shorts,"Men's Shorts Other",X
+2,33,347,Men,"Coats & jackets","Men's Coats & jackets Fleece jacket",X
+2,33,348,Men,"Coats & jackets",Flight/bomber,
+2,33,349,Men,"Coats & jackets","Men's Coats & jackets Jean jacket",X
+2,33,350,Men,"Coats & jackets","Men's Coats & jackets Military",X
+2,33,351,Men,"Coats & jackets","Men's Coats & jackets Motorcycle",X
+2,33,352,Men,"Coats & jackets","Men's Coats & jackets Parka",X
+2,33,353,Men,"Coats & jackets","Men's Coats & jackets Peacoat",X
+2,33,354,Men,"Coats & jackets","Men's Coats & jackets Poncho",X
+2,33,355,Men,"Coats & jackets","Men's Coats & jackets Puffer",X
+2,33,356,Men,"Coats & jackets",Rainwear,
+2,33,357,Men,"Coats & jackets","Men's Coats & jackets Trench",X
+2,33,358,Men,"Coats & jackets",Varsity/baseball,
+2,33,359,Men,"Coats & jackets","Men's Coats & jackets Vest",X
+2,33,360,Men,"Coats & jackets","Men's Coats & jackets Windbreaker",X
+2,33,361,Men,"Coats & jackets","Men's Coats & jackets Wool",X
+2,33,362,Men,"Coats & jackets","Men's Coats & jackets Other",X
+2,34,363,Men,"Blazers & sport coats","Men's Blazers & sport coats Double breasted",X
+2,34,364,Men,"Blazers & sport coats","Men's Blazers & sport coats Four button",X
+2,34,365,Men,"Blazers & sport coats","Men's Blazers & sport coats One button",X
+2,34,366,Men,"Blazers & sport coats","Men's Blazers & sport coats Three button",X
+2,34,367,Men,"Blazers & sport coats","Men's Blazers & sport coats Two button",X
+2,34,368,Men,"Blazers & sport coats","Men's Blazers & sport coats Other",X
+2,35,369,Men,Suits,"Men's Suits One button",X
+2,35,370,Men,Suits,"Men's Suits Two button",X
+2,35,371,Men,Suits,"Men's Suits Three button",X
+2,35,372,Men,Suits,"Men's Suits Four button",X
+2,35,373,Men,Suits,"Men's Suits Double breasted",X
+2,35,374,Men,Suits,Tuxedo,
+2,35,375,Men,Suits,"Men's Suits Other",X
+2,36,376,Men,"Athletic apparel","Competitive swimwear",
+2,36,377,Men,"Athletic apparel","Men's Athletic apparel Jackets",X
+2,36,378,Men,"Athletic apparel","Men's Athletic apparel Jerseys",X
+2,36,379,Men,"Athletic apparel","Men's Athletic apparel Pants",X
+2,36,380,Men,"Athletic apparel","Men's Athletic apparel Shirts & tops",X
+2,36,381,Men,"Athletic apparel","Men's Athletic apparel Shorts",X
+2,36,382,Men,"Athletic apparel","Men's Athletic apparel Snowsuits & bibs",X
+2,36,383,Men,"Athletic apparel","Men's Athletic apparel Socks",X
+2,36,384,Men,"Athletic apparel","Men's Athletic apparel Tracksuits & sweats",X
+2,36,385,Men,"Athletic apparel","Men's Athletic apparel Vests",X
+2,36,386,Men,"Athletic apparel","Men's Athletic apparel Other",X
+2,37,387,Men,Swimwear,"Board shorts",
+2,37,388,Men,Swimwear,"Swim briefs",
+2,37,389,Men,Swimwear,"Swim trunks",
+2,38,390,Men,"Men's accessories","Backpacks, bags & briefcases",
+2,38,391,Men,"Men's accessories","Men's Men's accessories Belts",X
+2,38,392,Men,"Men's accessories","Men's Men's accessories Hats",X
+2,38,393,Men,"Men's accessories","Men's Men's accessories Sunglasses",X
+2,38,394,Men,"Men's accessories",Ties,
+2,38,395,Men,"Men's accessories","Men's Men's accessories Watches",X
+2,38,396,Men,"Men's accessories","Men's Men's accessories Other",X
+2,39,397,Men,Shoes,"Men's Shoes Athletic",X
+2,39,398,Men,Shoes,"Men's Shoes Boots",X
+2,39,399,Men,Shoes,"Men's Shoes Fashion sneakers",X
+2,39,400,Men,Shoes,"Men's Shoes Loafers & slip-ons",X
+2,39,401,Men,Shoes,"Men's Shoes Mules & clogs",X
+2,39,402,Men,Shoes,"Men's Shoes Outdoor",X
+2,39,403,Men,Shoes,"Men's Shoes Oxfords",X
+2,39,404,Men,Shoes,"Men's Shoes Sandals",X
+2,39,405,Men,Shoes,"Men's Shoes Slippers",X
+2,39,406,Men,Shoes,"Men's Shoes Work & safety",X
+2,40,407,Men,Other,"Men's Other Other",X
+3,41,408,Kids,"Girls 0-24 mos","Kids's Girls 0-24 mos Dresses",X
+3,41,409,Kids,"Girls 0-24 mos","Kids's Girls 0-24 mos Tops & t-shirts",X
+3,41,410,Kids,"Girls 0-24 mos","Kids's Girls 0-24 mos Bottoms",X
+3,41,411,Kids,"Girls 0-24 mos","Kids's Girls 0-24 mos One-pieces",X
+3,41,412,Kids,"Girls 0-24 mos","Kids's Girls 0-24 mos Accessories",X
+3,41,413,Kids,"Girls 0-24 mos","Kids's Girls 0-24 mos Swimwear",X
+3,41,414,Kids,"Girls 0-24 mos","Kids's Girls 0-24 mos Shoes",X
+3,41,415,Kids,"Girls 0-24 mos","Kids's Girls 0-24 mos Other",X
+3,42,416,Kids,"Girls 2t-5t","Kids's Girls 2t-5t Dresses",X
+3,42,417,Kids,"Girls 2t-5t","Kids's Girls 2t-5t Tops & t-shirts",X
+3,42,418,Kids,"Girls 2t-5t","Kids's Girls 2t-5t Bottoms",X
+3,42,419,Kids,"Girls 2t-5t","Kids's Girls 2t-5t One-pieces",X
+3,42,420,Kids,"Girls 2t-5t","Kids's Girls 2t-5t Swimwear",X
+3,42,421,Kids,"Girls 2t-5t","Kids's Girls 2t-5t Shoes",X
+3,42,422,Kids,"Girls 2t-5t","Kids's Girls 2t-5t Accessories",X
+3,42,423,Kids,"Girls 2t-5t","Kids's Girls 2t-5t Other",X
+3,43,424,Kids,"Girls (4+)","Kids's Girls (4+) Tops & t-shirts",X
+3,43,425,Kids,"Girls (4+)","Kids's Girls (4+) Dresses",X
+3,43,426,Kids,"Girls (4+)","Kids's Girls (4+) Jeans",X
+3,43,427,Kids,"Girls (4+)","Kids's Girls (4+) Swimwear",X
+3,43,428,Kids,"Girls (4+)","Kids's Girls (4+) Shoes",X
+3,43,429,Kids,"Girls (4+)","Kids's Girls (4+) Accessories",X
+3,43,430,Kids,"Girls (4+)","Kids's Girls (4+) Other",X
+3,44,431,Kids,"Boys 0-24 mos","Kids's Boys 0-24 mos Tops & t-shirts",X
+3,44,432,Kids,"Boys 0-24 mos","Kids's Boys 0-24 mos Bottoms",X
+3,44,433,Kids,"Boys 0-24 mos","Kids's Boys 0-24 mos One-pieces",X
+3,44,434,Kids,"Boys 0-24 mos","Kids's Boys 0-24 mos Swimwear",X
+3,44,435,Kids,"Boys 0-24 mos","Kids's Boys 0-24 mos Accessories",X
+3,44,436,Kids,"Boys 0-24 mos","Kids's Boys 0-24 mos Shoes",X
+3,44,437,Kids,"Boys 0-24 mos","Kids's Boys 0-24 mos Other",X
+3,45,438,Kids,"Boys 2t-5t","Kids's Boys 2t-5t Tops & t-shirts",X
+3,45,439,Kids,"Boys 2t-5t","Kids's Boys 2t-5t Bottoms",X
+3,45,440,Kids,"Boys 2t-5t","Kids's Boys 2t-5t One-pieces",X
+3,45,441,Kids,"Boys 2t-5t","Kids's Boys 2t-5t Swimwear",X
+3,45,442,Kids,"Boys 2t-5t","Kids's Boys 2t-5t Shoes",X
+3,45,443,Kids,"Boys 2t-5t","Kids's Boys 2t-5t Accessories",X
+3,45,444,Kids,"Boys 2t-5t","Kids's Boys 2t-5t Other",X
+3,46,445,Kids,"Boys (4+)","Top & t-shirts",
+3,46,446,Kids,"Boys (4+)","Kids's Boys (4+) Bottoms",X
+3,46,447,Kids,"Boys (4+)","Kids's Boys (4+) Swimwear",X
+3,46,448,Kids,"Boys (4+)","Kids's Boys (4+) Shoes",X
+3,46,449,Kids,"Boys (4+)","Kids's Boys (4+) Accessories",X
+3,46,450,Kids,"Boys (4+)","Kids's Boys (4+) Other",X
+3,47,451,Kids,Toys,"Action figures & statues",
+3,47,452,Kids,Toys,"Arts & crafts",
+3,47,453,Kids,Toys,"Baby & toddler toys",
+3,47,454,Kids,Toys,"Building toys",
+3,47,455,Kids,Toys,"Dolls & accessories",
+3,47,456,Kids,Toys,"Dress up & pretend play",
+3,47,457,Kids,Toys,"Electronics for kids",
+3,47,458,Kids,Toys,"Kids's Toys Games",X
+3,47,459,Kids,Toys,Hobbies,
+3,47,460,Kids,Toys,"Kids' furniture, decor & storage",
+3,47,461,Kids,Toys,"Learning & education",
+3,47,462,Kids,Toys,"Novelty & gag toys",
+3,47,463,Kids,Toys,"Party supplies",
+3,47,464,Kids,Toys,Puzzles,
+3,47,465,Kids,Toys,"Sports & outdoor play",
+3,47,466,Kids,Toys,"Stuffed animals & plush",
+3,47,467,Kids,Toys,"Tricycles, scooters & wagons",
+3,47,468,Kids,Toys,"Toy remote control & play vehicles",
+3,47,469,Kids,Toys,"Kids's Toys Other",X
+3,48,470,Kids,"Bathing & skin care","Bathing tubs & seats",
+3,48,471,Kids,"Bathing & skin care","Kids's Bathing & skin care Bathroom safety",X
+3,48,472,Kids,"Bathing & skin care","Bubble bath",
+3,48,473,Kids,"Bathing & skin care","Kids's Bathing & skin care Conditioners",X
+3,48,474,Kids,"Bathing & skin care","Grooming & healthcare kits",
+3,48,475,Kids,"Bathing & skin care","Non-slip bath mats",
+3,48,476,Kids,"Bathing & skin care",Shampoo,
+3,48,477,Kids,"Bathing & skin care","Skin care",
+3,48,478,Kids,"Bathing & skin care","Soaps & cleansers",
+3,48,479,Kids,"Bathing & skin care","Travel bathing kits",
+3,48,480,Kids,"Bathing & skin care","Kids's Bathing & skin care Washcloths & towels",X
+3,48,481,Kids,"Bathing & skin care","Kids's Bathing & skin care Other",X
+3,49,482,Kids,"Car seats & accessories","Car seats",
+3,49,483,Kids,"Car seats & accessories","Kids's Car seats & accessories Accessories",X
+3,49,484,Kids,"Car seats & accessories","Kids's Car seats & accessories Other",X
+3,50,485,Kids,Diapering,"Disposable diapers",
+3,50,486,Kids,Diapering,"Cloth diapers",
+3,50,487,Kids,Diapering,"Changing pads & covers",
+3,50,488,Kids,Diapering,"Changing tables",
+3,50,489,Kids,Diapering,"Wipes & holders",
+3,50,490,Kids,Diapering,"Diaper bags",
+3,50,491,Kids,Diapering,"Changing kits",
+3,50,492,Kids,Diapering,"Diaper pails & refills",
+3,50,493,Kids,Diapering,"Diaper stackers & caddies",
+3,50,494,Kids,Diapering,"Powders & lotions",
+3,50,495,Kids,Diapering,"Kids's Diapering Washcloths & towels",X
+3,50,496,Kids,Diapering,"Kids's Diapering Other",X
+3,51,497,Kids,Feeding,Bottle-feeding,
+3,51,498,Kids,Feeding,Breastfeeding,
+3,51,499,Kids,Feeding,"Storage & containers",
+3,51,500,Kids,Feeding,"Gift sets",
+3,51,501,Kids,Feeding,"Highchairs & booster seats",
+3,51,502,Kids,Feeding,"Pacifiers & accessories",
+3,51,503,Kids,Feeding,"Pillows & stools",
+3,51,504,Kids,Feeding,"Solid feeding",
+3,51,505,Kids,Feeding,Vitamins,
+3,51,506,Kids,Feeding,"Kids's Feeding Other",X
+3,52,507,Kids,Gear,"Activity centers & entertainers",
+3,52,508,Kids,Gear,"Baby gyms & playmats",
+3,52,509,Kids,Gear,"Baby seats",
+3,52,510,Kids,Gear,"Backpacks & carriers",
+3,52,511,Kids,Gear,"Bicycle child seats & trailers",
+3,52,512,Kids,Gear,"Kids's Gear Harnesses & leashes",X
+3,52,513,Kids,Gear,"Playard bedding",
+3,52,514,Kids,Gear,Playards,
+3,52,515,Kids,Gear,"Shopping cart covers",
+3,52,516,Kids,Gear,"Swings, jumpers & bouncers",
+3,52,517,Kids,Gear,"Travel beds",
+3,52,518,Kids,Gear,Walkers,
+3,52,519,Kids,Gear,"Kids's Gear Other",X
+3,53,520,Kids,"Health & baby care","Humidifiers & vaporizers",
+3,53,521,Kids,"Health & baby care","Nail care",
+3,53,522,Kids,"Health & baby care","Nasal aspirators",
+3,53,523,Kids,"Health & baby care","Sun protection",
+3,53,524,Kids,"Health & baby care",Teethers,
+3,53,525,Kids,"Health & baby care","Teething relief",
+3,53,526,Kids,"Health & baby care",Thermometers,
+3,53,527,Kids,"Health & baby care",Toothbrushes,
+3,53,528,Kids,"Health & baby care","Kids's Health & baby care Other",X
+3,54,529,Kids,Nursery,"Kids's Nursery Bedding",X
+3,54,530,Kids,Nursery,"Kids's Nursery Furniture",X
+3,54,531,Kids,Nursery,"Nursery decor",
+3,54,532,Kids,Nursery,"Kids's Nursery Other",X
+3,55,533,Kids,"Potty training","Seat covers",
+3,55,534,Kids,"Potty training","Potties & seats",
+3,55,535,Kids,"Potty training","Step stools",
+3,55,536,Kids,"Potty training","Training pants",
+3,55,537,Kids,"Potty training","Travel potties",
+3,55,538,Kids,"Potty training","Kids's Potty training Other",X
+3,56,539,Kids,"Pregnancy & maternity","Breastfeeding pillows & stools",
+3,56,540,Kids,"Pregnancy & maternity","Family planning tests",
+3,56,541,Kids,"Pregnancy & maternity","Maternity pillows",
+3,56,542,Kids,"Pregnancy & maternity","Prenatal monitoring devices",
+3,56,543,Kids,"Pregnancy & maternity","Kids's Pregnancy & maternity Other",X
+3,57,544,Kids,Safety,"Kids's Safety Bathroom safety",X
+3,57,545,Kids,Safety,"Cabinet locks & straps",
+3,57,546,Kids,Safety,"Crib netting",
+3,57,547,Kids,Safety,"Edge & corner guards",
+3,57,548,Kids,Safety,"Electrical safety",
+3,57,549,Kids,Safety,"Gates & doorways",
+3,57,550,Kids,Safety,"Kids's Safety Harnesses & leashes",X
+3,57,551,Kids,Safety,"Kitchen safety",
+3,57,552,Kids,Safety,Monitors,
+3,57,553,Kids,Safety,"Outdoor safety",
+3,57,554,Kids,Safety,"Rails & rail guards",
+3,57,555,Kids,Safety,"Safety caps",
+3,57,556,Kids,Safety,"Sleep positioners",
+3,57,557,Kids,Safety,"Kids's Safety Other",X
+3,58,558,Kids,Strollers,"Kids's Strollers Accessories",X
+3,58,559,Kids,Strollers,Joggers,
+3,58,560,Kids,Strollers,Lightweight,
+3,58,561,Kids,Strollers,Prams,
+3,58,562,Kids,Strollers,Standard,
+3,58,563,Kids,Strollers,Tandem,
+3,58,564,Kids,Strollers,"Travel systems",
+3,58,565,Kids,Strollers,"Kids's Strollers Other",X
+3,59,566,Kids,Other,"Kids's Other Other",X
+4,60,567,Home,"Kids' home store","Kids' bedding",
+4,60,568,Home,"Kids' home store","Kids' flatware",
+4,60,569,Home,"Kids' home store","Kids' furniture",
+4,60,570,Home,"Kids' home store","Kids' room dﾃｩcor",
+4,60,571,Home,"Kids' home store","Nursery dﾃｩcor",
+4,60,572,Home,"Kids' home store","Nursery furniture",
+4,60,573,Home,"Kids' home store","Nursery bedding",
+4,60,574,Home,"Kids' home store","Kids' bath",
+4,60,575,Home,"Kids' home store","Home's Kids' home store Other",X
+4,61,576,Home,"Kitchen & dining",Bakeware,
+4,61,577,Home,"Kitchen & dining","Coffee & tea accessories",
+4,61,578,Home,"Kitchen & dining",Cookware,
+4,61,579,Home,"Kitchen & dining","Dining & entertaining",
+4,61,580,Home,"Kitchen & dining","Food service equipment & supplies",
+4,61,581,Home,"Kitchen & dining","Home brewing & wine making",
+4,61,582,Home,"Kitchen & dining","Kitchen & table linens",
+4,61,583,Home,"Kitchen & dining","Kitchen knives & cutlery accessories",
+4,61,584,Home,"Kitchen & dining","Kitchen utensils & gadgets",
+4,61,585,Home,"Kitchen & dining","Small appliances",
+4,61,586,Home,"Kitchen & dining","Storage & organization",
+4,61,587,Home,"Kitchen & dining","Home's Kitchen & dining Water coolers & filters",X
+4,61,588,Home,"Kitchen & dining","Wine accessories",
+4,61,589,Home,"Kitchen & dining","Home's Kitchen & dining Other",X
+4,62,590,Home,Bedding,"Bedspreads & coverlets",
+4,62,591,Home,Bedding,"Comforters & sets",
+4,62,592,Home,Bedding,"Duvet covers & sets",
+4,62,593,Home,Bedding,Quilts,
+4,62,594,Home,Bedding,"Bed pillows",
+4,62,595,Home,Bedding,"Sheets & pillowcases",
+4,62,596,Home,Bedding,"Bed in a bag",
+4,62,597,Home,Bedding,"Shams, bed skirts & bed frame draperies",
+4,62,598,Home,Bedding,"Decorative pillows, inserts & covers",
+4,62,599,Home,Bedding,"Blankets & throws",
+4,62,600,Home,Bedding,"Mattress pads",
+4,62,601,Home,Bedding,"Inflatable beds",
+4,62,602,Home,Bedding,"Feather beds",
+4,62,603,Home,Bedding,"Home's Bedding Other",X
+4,63,604,Home,Bath,"Bath linen sets",
+4,63,605,Home,Bath,"Bath rugs",
+4,63,606,Home,Bath,"Bathroom accessories",
+4,63,607,Home,Bath,"Bathroom furniture sets",
+4,63,608,Home,Bath,Towels,
+4,63,609,Home,Bath,"Bathroom shelves",
+4,63,610,Home,Bath,"Home's Bath Other",X
+4,64,611,Home,Furniture,"Bedroom furniture",
+4,64,612,Home,Furniture,"Kitchen & dining room furniture",
+4,64,613,Home,Furniture,"Home bar furniture",
+4,64,614,Home,Furniture,"Home entertainment furniture",
+4,64,615,Home,Furniture,"Home office furniture",
+4,64,616,Home,Furniture,"Living room furniture",
+4,64,617,Home,Furniture,"Bathroom furniture",
+4,64,618,Home,Furniture,"Other furniture",
+4,64,619,Home,Furniture,"Home's Furniture Replacement parts",X
+4,64,620,Home,Furniture,"Home's Furniture Other",X
+4,65,621,Home,"Home decor","Area rugs & pads",
+4,65,622,Home,"Home decor",Baskets,
+4,65,623,Home,"Home decor","Candles & holders",
+4,65,624,Home,"Home decor","Home's Home decor Clocks",X
+4,65,625,Home,"Home decor","Decorative pillows",
+4,65,626,Home,"Home decor",Doormats,
+4,65,627,Home,"Home decor",Doorstops,
+4,65,628,Home,"Home decor","Draft stoppers",
+4,65,629,Home,"Home decor","Fireplaces & accessories",
+4,65,630,Home,"Home decor","Home decor accents",
+4,65,631,Home,"Home decor","Home fragrance",
+4,65,632,Home,"Home decor","Lamps& accessories",
+4,65,633,Home,"Home decor","Home's Home decor Mirrors",X
+4,65,634,Home,"Home decor","Photo albums & frames",
+4,65,635,Home,"Home decor",Slipcovers,
+4,65,636,Home,"Home decor",Tapestries,
+4,65,637,Home,"Home decor","Window treatments",
+4,65,638,Home,"Home decor","Home's Home decor Vases",X
+4,65,639,Home,"Home decor","Home's Home decor Other",X
+4,66,640,Home,Artwork,"Home's Artwork Drawings",X
+4,66,641,Home,Artwork,"Lithographs, etchings & woodcuts",
+4,66,642,Home,Artwork,Paintings,
+4,66,643,Home,Artwork,Photographs,
+4,66,644,Home,Artwork,"Posters & prints",
+4,66,645,Home,Artwork,"Home's Artwork Other",X
+4,67,646,Home,"Seasonal decor","Home's Seasonal decor Christmas",X
+4,67,647,Home,"Seasonal decor","Home's Seasonal decor Easter",X
+4,67,648,Home,"Seasonal decor","Home's Seasonal decor Halloween",X
+4,67,649,Home,"Seasonal decor","Home's Seasonal decor Valentine",X
+4,67,650,Home,"Seasonal decor","Home's Seasonal decor Patriotic",X
+4,67,651,Home,"Seasonal decor","Home's Seasonal decor Thanksgiving",X
+4,67,652,Home,"Seasonal decor","Home's Seasonal decor Birthday",X
+4,67,653,Home,"Seasonal decor","St patrick's",
+4,67,654,Home,"Seasonal decor","Home's Seasonal decor Hanukkah",X
+4,67,655,Home,"Seasonal decor","Home's Seasonal decor Day of the dead",X
+4,67,656,Home,"Seasonal decor","New year's",
+4,67,657,Home,"Seasonal decor","Home's Seasonal decor Other",X
+4,68,658,Home,"Home appliances","Air conditioners",
+4,68,659,Home,"Home appliances","Air purifiers",
+4,68,660,Home,"Home appliances",Dehumidifiers,
+4,68,661,Home,"Home appliances",Dishwashers,
+4,68,662,Home,"Home appliances","Garbage disposals",
+4,68,663,Home,"Home appliances",Fans,
+4,68,664,Home,"Home appliances","Freezers & ice makers",
+4,68,665,Home,"Home appliances","Garment steamers",
+4,68,666,Home,"Home appliances",Humidifiers,
+4,68,667,Home,"Home appliances","Irons & ironing boards",
+4,68,668,Home,"Home appliances","Kitchen appliances",
+4,68,669,Home,"Home appliances",Microwaves,
+4,68,670,Home,"Home appliances",Refrigerators,
+4,68,671,Home,"Home appliances","Space heaters",
+4,68,672,Home,"Home appliances","Vacuums & floor care",
+4,68,673,Home,"Home appliances","Washers & dryers",
+4,68,674,Home,"Home appliances","Home's Home appliances Water coolers & filters",X
+4,68,675,Home,"Home appliances","Wine, beer & beverage coolers",
+4,69,676,Home,"Storage & organization","Baskets & bins",
+4,69,677,Home,"Storage & organization","Bathroom storage & organization",
+4,69,678,Home,"Storage & organization","Clothing & closet storage",
+4,69,679,Home,"Storage & organization","Garage storage & organization",
+4,69,680,Home,"Storage & organization","Holiday decor storage",
+4,69,681,Home,"Storage & organization","Kitchen storage & organization",
+4,69,682,Home,"Storage & organization","Laundry storage & organization",
+4,69,683,Home,"Storage & organization","Racks, shelves & drawers",
+4,69,684,Home,"Storage & organization","Trash & recycling",
+4,69,685,Home,"Storage & organization","Storage cabinets",
+4,69,686,Home,"Storage & organization","Home's Storage & organization Jewelry boxes & organizers",X
+4,69,687,Home,"Storage & organization","Home's Storage & organization Other",X
+4,70,688,Home,"Cleaning supplies","Air fresheners",
+4,70,689,Home,"Cleaning supplies",Brushes,
+4,70,690,Home,"Cleaning supplies",Dusting,
+4,70,691,Home,"Cleaning supplies","Home's Cleaning supplies Gloves",X
+4,70,692,Home,"Cleaning supplies","Household cleaners",
+4,70,693,Home,"Cleaning supplies",Mopping,
+4,70,694,Home,"Cleaning supplies","Paper towels",
+4,70,695,Home,"Cleaning supplies",Sponges,
+4,70,696,Home,"Cleaning supplies",Squeegees,
+4,70,697,Home,"Cleaning supplies",Sweeping,
+4,70,698,Home,"Cleaning supplies","Trash bags",
+4,70,699,Home,"Cleaning supplies","Home's Cleaning supplies Jewelry boxes & organizers",X
+4,70,700,Home,"Cleaning supplies","Home's Cleaning supplies Other",X
+4,71,701,Home,Other,"Home's Other Other",X
+8,72,702,"Sports & outdoors","Team sports","Baseball & softball",
+8,72,703,"Sports & outdoors","Team sports",Soccer,
+8,72,704,"Sports & outdoors","Team sports",Lacrosse,
+8,72,705,"Sports & outdoors","Team sports",Basketball,
+8,72,706,"Sports & outdoors","Team sports",Hockey,
+8,72,707,"Sports & outdoors","Team sports",Football,
+8,72,708,"Sports & outdoors","Team sports","Tennis & racquets",
+8,72,709,"Sports & outdoors","Team sports",Badminton,
+8,72,710,"Sports & outdoors","Team sports",Volleyball,
+8,72,711,"Sports & outdoors","Team sports",Rugby,
+8,72,712,"Sports & outdoors","Team sports","All other sports",
+8,73,713,"Sports & outdoors",Exercise,"Strength training",
+8,73,714,"Sports & outdoors",Exercise,"Fitness accessories",
+8,73,715,"Sports & outdoors",Exercise,"Boxing & mma",
+8,73,716,"Sports & outdoors",Exercise,"Fitness technology",
+8,73,717,"Sports & outdoors",Exercise,"Athletic training",
+8,73,718,"Sports & outdoors",Exercise,"Yoga & pilates",
+8,73,719,"Sports & outdoors",Exercise,Bowling,
+8,73,720,"Sports & outdoors",Exercise,Dance/ballet,
+8,73,721,"Sports & outdoors",Exercise,"Track & field",
+8,73,722,"Sports & outdoors",Exercise,"Sports & outdoors's Exercise Other",X
+8,74,723,"Sports & outdoors",Footwear,Cleats,
+8,74,724,"Sports & outdoors",Footwear,"Sports & outdoors's Footwear Men",X
+8,74,725,"Sports & outdoors",Footwear,"Sports & outdoors's Footwear Women",X
+8,74,726,"Sports & outdoors",Footwear,"Sports & outdoors's Footwear Kids",X
+8,74,727,"Sports & outdoors",Footwear,"Sports & outdoors's Footwear Other",X
+8,75,728,"Sports & outdoors",Apparel,"Sports & outdoors's Apparel Men",X
+8,75,729,"Sports & outdoors",Apparel,"Sports & outdoors's Apparel Women",X
+8,75,730,"Sports & outdoors",Apparel,Boys,
+8,75,731,"Sports & outdoors",Apparel,Girls,
+8,75,732,"Sports & outdoors",Apparel,"Sports & outdoors's Apparel Accessories",X
+8,75,733,"Sports & outdoors",Apparel,"Sports & outdoors's Apparel Other",X
+8,76,734,"Sports & outdoors",Golf,"Men's golf clubs",
+8,76,735,"Sports & outdoors",Golf,"Women's golf clubs",
+8,76,736,"Sports & outdoors",Golf,"Golf apparel",
+8,76,737,"Sports & outdoors",Golf,"Golf shoes",
+8,76,738,"Sports & outdoors",Golf,"Golf bags",
+8,76,739,"Sports & outdoors",Golf,"Golf balls",
+8,76,740,"Sports & outdoors",Golf,"Sports & outdoors's Golf Electronics",X
+8,76,741,"Sports & outdoors",Golf,"Sports & outdoors's Golf Other",X
+8,77,742,"Sports & outdoors",Outdoors,"Bike & skate",
+8,77,743,"Sports & outdoors",Outdoors,"Hiking & camping",
+8,77,744,"Sports & outdoors",Outdoors,"Sports & outdoors's Outdoors Fishing",X
+8,77,745,"Sports & outdoors",Outdoors,"Water sports",
+8,77,746,"Sports & outdoors",Outdoors,"Indoor/outdoor games",
+8,77,747,"Sports & outdoors",Outdoors,Boating,
+8,77,748,"Sports & outdoors",Outdoors,"Sports & outdoors's Outdoors Fishing",X
+8,77,749,"Sports & outdoors",Outdoors,Snowboard,
+8,77,750,"Sports & outdoors",Outdoors,Skateboard,
+8,77,751,"Sports & outdoors",Outdoors,"Sports & outdoors's Outdoors Other",X
+8,78,752,"Sports & outdoors","Fan shop",MLB,
+8,78,753,"Sports & outdoors","Fan shop",NFL,
+8,78,754,"Sports & outdoors","Fan shop",NHL,
+8,78,755,"Sports & outdoors","Fan shop",NBA,
+8,78,756,"Sports & outdoors","Fan shop",NCAA,
+8,78,757,"Sports & outdoors","Fan shop","Sports & outdoors's Fan shop Other",X
+8,79,758,"Sports & outdoors",Other,"Sports & outdoors's Other Other",X
+7,80,759,Electronics,"Cameras & photography","Digital cameras",
+7,80,760,Electronics,"Cameras & photography",Camcorders,
+7,80,761,Electronics,"Cameras & photography","Camera & photo accessories",
+7,80,762,Electronics,"Cameras & photography","Lenses & filters",
+7,80,763,Electronics,"Cameras & photography","Tripods & supports",
+7,80,764,Electronics,"Cameras & photography","Flashes & flash accessories",
+7,80,765,Electronics,"Cameras & photography","Binoculars & telescopes",
+7,80,766,Electronics,"Cameras & photography","Lighting & studio",
+7,80,767,Electronics,"Cameras & photography","Film photography",
+7,80,768,Electronics,"Cameras & photography","Electronics's Cameras & photography Other",X
+7,81,769,Electronics,"Computers & tablets","iPad/tablet/ebook readers",
+7,81,770,Electronics,"Computers & tablets","iPad/tablet/ebook access",
+7,81,771,Electronics,"Computers & tablets","Laptops & netbooks",
+7,81,772,Electronics,"Computers & tablets","Desktops & all-in-ones",
+7,81,773,Electronics,"Computers & tablets","Printers, scanners & supplies",
+7,81,774,Electronics,"Computers & tablets","Networking & connectivity",
+7,81,775,Electronics,"Computers & tablets","Components & parts",
+7,81,776,Electronics,"Computers & tablets","Drives, storage & media",
+7,81,777,Electronics,"Computers & tablets","Electronics's Computers & tablets Other",X
+7,82,778,Electronics,"Cell phones & accessories","Cell phones & smartphones",
+7,82,779,Electronics,"Cell phones & accessories","Cell phone accessories",
+7,82,780,Electronics,"Cell phones & accessories",Headsets,
+7,82,781,Electronics,"Cell phones & accessories","Cases, covers & skins",
+7,82,782,Electronics,"Cell phones & accessories","Screen protectors",
+7,82,783,Electronics,"Cell phones & accessories","Chargers & cradles",
+7,82,784,Electronics,"Cell phones & accessories",Batteries,
+7,82,785,Electronics,"Cell phones & accessories","Cables & adapters",
+7,82,786,Electronics,"Cell phones & accessories","Electronics's Cell phones & accessories Other",X
+7,83,787,Electronics,"TV, audio & surveillance",Televisions,
+7,83,788,Electronics,"TV, audio & surveillance","Home audio",
+7,83,789,Electronics,"TV, audio & surveillance",Headphones,
+7,83,790,Electronics,"TV, audio & surveillance","Home speakers & subwoofers",
+7,83,791,Electronics,"TV, audio & surveillance","Home surveillance",
+7,83,792,Electronics,"TV, audio & surveillance","Dvd & blu-ray players",
+7,83,793,Electronics,"TV, audio & surveillance","Portable audio & accessories",
+7,83,794,Electronics,"TV, audio & surveillance",Gadgets,
+7,83,795,Electronics,"TV, audio & surveillance","Electronics's TV, audio & surveillance Other",X
+7,84,796,Electronics,"Video games & consoles","Electronics's Video games & consoles Games",X
+7,84,797,Electronics,"Video games & consoles",Consoles,
+7,84,798,Electronics,"Video games & consoles","Electronics's Video games & consoles Accessories",X
+7,84,799,Electronics,"Video games & consoles","Prepaid gaming cards",
+7,84,800,Electronics,"Video games & consoles","Strategy guides",
+7,84,801,Electronics,"Video games & consoles","Video gaming merchandise",
+7,84,802,Electronics,"Video games & consoles","Replacement parts & tools",
+7,84,803,Electronics,"Video games & consoles","Electronics's Video games & consoles Other",X
+7,85,804,Electronics,"Car audio, video & gps","Car stereos & components",
+7,85,805,Electronics,"Car audio, video & gps","GPS units & equipment",
+7,85,806,Electronics,"Car audio, video & gps","Car speakers & systems",
+7,85,807,Electronics,"Car audio, video & gps","Car subwoofers",
+7,85,808,Electronics,"Car audio, video & gps","Car video",
+7,85,809,Electronics,"Car audio, video & gps","Car security & convenience",
+7,85,810,Electronics,"Car audio, video & gps","Car A/V installation",
+7,85,811,Electronics,"Car audio, video & gps","GPS accessories & mounts",
+7,85,812,Electronics,"Car audio, video & gps","Other accessories",
+7,85,813,Electronics,"Car audio, video & gps","Electronics's Car audio, video & gps Other",X
+7,86,814,Electronics,Media,Blu-ray,
+7,86,815,Electronics,Media,DVD,
+7,86,816,Electronics,Media,CD,
+7,86,817,Electronics,Media,VHS,
+7,86,818,Electronics,Media,"Electronics's Media Other",X
+7,87,819,Electronics,Other,"Electronics's Other Other",X
+6,88,820,Beauty,"Bath & body","Beauty's Bath & body Bath",X
+6,88,821,Beauty,"Bath & body","Beauty's Bath & body Bathing accessories",X
+6,88,822,Beauty,"Bath & body",Cleansers,
+6,88,823,Beauty,"Bath & body","Scrubs & body treatments",
+6,88,824,Beauty,"Bath & body","Beauty's Bath & body Sets",X
+6,88,825,Beauty,"Bath & body","Beauty's Bath & body Other",X
+6,89,826,Beauty,Fragrance,"Beauty's Fragrance Women",X
+6,89,827,Beauty,Fragrance,"Beauty's Fragrance Men",X
+6,89,828,Beauty,Fragrance,"Beauty's Fragrance Kids",X
+6,89,829,Beauty,Fragrance,"Candles & home scents",
+6,89,830,Beauty,Fragrance,"Beauty's Fragrance Sets",X
+6,89,831,Beauty,Fragrance,"Beauty's Fragrance Other",X
+6,90,832,Beauty,"Hair care","Beauty's Hair care Conditioners",X
+6,90,833,Beauty,"Hair care","Hair & scalp treatments",
+6,90,834,Beauty,"Hair care","Hair color",
+6,90,835,Beauty,"Hair care","Hair loss products",
+6,90,836,Beauty,"Hair care","Hair perms & texturizers",
+6,90,837,Beauty,"Hair care","Hair relaxers",
+6,90,838,Beauty,"Hair care",Shampoos,
+6,90,839,Beauty,"Hair care","Shampoo plus conditioner",
+6,90,840,Beauty,"Hair care","Shampoo & conditioner sets",
+6,90,841,Beauty,"Hair care","Styling products",
+6,90,842,Beauty,"Hair care","Styling tools",
+6,90,843,Beauty,"Hair care","Beauty's Hair care Other",X
+6,91,844,Beauty,Makeup,"Beauty's Makeup Body",X
+6,91,845,Beauty,Makeup,"Beauty's Makeup Eyes",X
+6,91,846,Beauty,Makeup,"Beauty's Makeup Face",X
+6,91,847,Beauty,Makeup,"Beauty's Makeup Lips",X
+6,91,848,Beauty,Makeup,"Makeup palettes",
+6,91,849,Beauty,Makeup,"Makeup remover",
+6,91,850,Beauty,Makeup,"Makeup sets",
+6,91,851,Beauty,Makeup,Nails,
+6,91,852,Beauty,Makeup,"Brushes & applicators",
+6,91,853,Beauty,Makeup,"Beauty's Makeup Other",X
+6,92,854,Beauty,"Skin care","Beauty's Skin care Body",X
+6,92,855,Beauty,"Skin care","Beauty's Skin care Eyes",X
+6,92,856,Beauty,"Skin care","Beauty's Skin care Face",X
+6,92,857,Beauty,"Skin care",Feet,
+6,92,858,Beauty,"Skin care","Hands & nails",
+6,92,859,Beauty,"Skin care","Beauty's Skin care Lips",X
+6,92,860,Beauty,"Skin care",Maternity,
+6,92,861,Beauty,"Skin care","Sets & kits",
+6,92,862,Beauty,"Skin care",Sun,
+6,92,863,Beauty,"Skin care","Beauty's Skin care Other",X
+6,93,864,Beauty,"Tools & accessories","Bags & cases",
+6,93,865,Beauty,"Tools & accessories","Beauty's Tools & accessories Bathing accessories",X
+6,93,866,Beauty,"Tools & accessories","Cotton & swabs",
+6,93,867,Beauty,"Tools & accessories",Epilators,
+6,93,868,Beauty,"Tools & accessories","Hair coloring tools",
+6,93,869,Beauty,"Tools & accessories","Hair styling tools",
+6,93,870,Beauty,"Tools & accessories","Makeup brushes & tools",
+6,93,871,Beauty,"Tools & accessories","Beauty's Tools & accessories Mirrors",X
+6,93,872,Beauty,"Tools & accessories","Nail tools",
+6,93,873,Beauty,"Tools & accessories","Toiletry kits",
+6,93,874,Beauty,"Tools & accessories",Tweezers,
+6,93,875,Beauty,"Tools & accessories",Waxing,
+6,93,876,Beauty,"Tools & accessories","Beauty's Tools & accessories Other",X
+6,94,877,Beauty,Other,"Beauty's Other Other",X
+5,95,878,"Vintage & collectibles",Jewelry,"Vintage & collectibles's Jewelry Brooch",X
+5,95,879,"Vintage & collectibles",Jewelry,Necklace,
+5,95,880,"Vintage & collectibles",Jewelry,"Vintage & collectibles's Jewelry Earrings",X
+5,95,881,"Vintage & collectibles",Jewelry,Ring,
+5,95,882,"Vintage & collectibles",Jewelry,Bracelet,
+5,95,883,"Vintage & collectibles",Jewelry,Pendant,
+5,95,884,"Vintage & collectibles",Jewelry,"Vintage & collectibles's Jewelry Watch",X
+5,95,885,"Vintage & collectibles",Jewelry,"Vintage & collectibles's Jewelry Other",X
+5,96,886,"Vintage & collectibles",Clothing,"Vintage & collectibles's Clothing Dress",X
+5,96,887,"Vintage & collectibles",Clothing,Jacket,
+5,96,888,"Vintage & collectibles",Clothing,"Vintage & collectibles's Clothing Shirt",X
+5,96,889,"Vintage & collectibles",Clothing,"Vintage & collectibles's Clothing Sweater",X
+5,96,890,"Vintage & collectibles",Clothing,"Vintage & collectibles's Clothing Blouse",X
+5,96,891,"Vintage & collectibles",Clothing,Skirt,
+5,96,892,"Vintage & collectibles",Clothing,"Vintage & collectibles's Clothing Tshirt",X
+5,96,893,"Vintage & collectibles",Clothing,Outerwear,
+5,96,894,"Vintage & collectibles",Clothing,"Vintage & collectibles's Clothing Pants",X
+5,96,895,"Vintage & collectibles",Clothing,"Vintage & collectibles's Clothing Shorts",X
+5,96,896,"Vintage & collectibles",Clothing,"Vintage & collectibles's Clothing Children",X
+5,96,897,"Vintage & collectibles",Clothing,"Vintage & collectibles's Clothing Baby",X
+5,96,898,"Vintage & collectibles",Clothing,"Vintage & collectibles's Clothing Swimwear",X
+5,96,899,"Vintage & collectibles",Clothing,"Vintage & collectibles's Clothing Tank",X
+5,96,900,"Vintage & collectibles",Clothing,"Vintage & collectibles's Clothing Shawl",X
+5,96,901,"Vintage & collectibles",Clothing,"Vintage & collectibles's Clothing Corset",X
+5,96,902,"Vintage & collectibles",Clothing,"Vintage & collectibles's Clothing Other",X
+5,97,903,"Vintage & collectibles","Home decor","Vintage & collectibles's Home decor Wall hanging",X
+5,97,904,"Vintage & collectibles","Home decor",Vase,
+5,97,905,"Vintage & collectibles","Home decor",Linens,
+5,97,906,"Vintage & collectibles","Home decor","Vintage & collectibles's Home decor Lighting",X
+5,97,907,"Vintage & collectibles","Home decor","Vintage & collectibles's Home decor Box",X
+5,97,908,"Vintage & collectibles","Home decor","Candle holder",
+5,97,909,"Vintage & collectibles","Home decor",Planter,
+5,97,910,"Vintage & collectibles","Home decor","Vintage & collectibles's Home decor Bedding",X
+5,97,911,"Vintage & collectibles","Home decor","Vintage & collectibles's Home decor Tray",X
+5,97,912,"Vintage & collectibles","Home decor","Vintage & collectibles's Home decor Pillow",X
+5,97,913,"Vintage & collectibles","Home decor",Frame,
+5,97,914,"Vintage & collectibles","Home decor",Basket,
+5,97,915,"Vintage & collectibles","Home decor","Vintage & collectibles's Home decor Other",X
+5,98,916,"Vintage & collectibles",Collectibles,Figurine,
+5,98,917,"Vintage & collectibles",Collectibles,"Vintage & collectibles's Collectibles Glass",X
+5,98,918,"Vintage & collectibles",Collectibles,Souvenir,
+5,98,919,"Vintage & collectibles",Collectibles,Porcelain,
+5,98,920,"Vintage & collectibles",Collectibles,"Vintage & collectibles's Collectibles Doll",X
+5,98,921,"Vintage & collectibles",Collectibles,"Vintage & collectibles's Collectibles Other",X
+5,99,922,"Vintage & collectibles",Accessories,"Vintage & collectibles's Accessories Shoes",X
+5,99,923,"Vintage & collectibles",Accessories,"Vintage & collectibles's Accessories Hat",X
+5,99,924,"Vintage & collectibles",Accessories,"Vintage & collectibles's Accessories Scarf",X
+5,99,925,"Vintage & collectibles",Accessories,"Vintage & collectibles's Accessories Eyewear",X
+5,99,926,"Vintage & collectibles",Accessories,"Vintage & collectibles's Accessories Necktie",X
+5,99,927,"Vintage & collectibles",Accessories,"Vintage & collectibles's Accessories Belt",X
+5,99,928,"Vintage & collectibles",Accessories,Handkerchief,
+5,99,929,"Vintage & collectibles",Accessories,"Cuff links",
+5,99,930,"Vintage & collectibles",Accessories,Buckle,
+5,99,931,"Vintage & collectibles",Accessories,"Vintage & collectibles's Accessories Brooch",X
+5,99,932,"Vintage & collectibles",Accessories,"Vintage & collectibles's Accessories Gloves",X
+5,99,933,"Vintage & collectibles",Accessories,"Vintage & collectibles's Accessories Apron",X
+5,99,934,"Vintage & collectibles",Accessories,Compact,
+5,99,935,"Vintage & collectibles",Accessories,"Vintage & collectibles's Accessories Wallet",X
+5,99,936,"Vintage & collectibles",Accessories,"Vintage & collectibles's Accessories Shawl",X
+5,99,937,"Vintage & collectibles",Accessories,"Vintage & collectibles's Accessories Keychain",X
+5,99,938,"Vintage & collectibles",Accessories,"Vintage & collectibles's Accessories Other",X
+5,100,939,"Vintage & collectibles",Housewares,"Vintage & collectibles's Housewares Glass",X
+5,100,940,"Vintage & collectibles",Housewares,"Vintage & collectibles's Housewares Bowl",X
+5,100,941,"Vintage & collectibles",Housewares,Cup,
+5,100,942,"Vintage & collectibles",Housewares,Ceramic,
+5,100,943,"Vintage & collectibles",Housewares,"Vintage & collectibles's Housewares Plate",X
+5,100,944,"Vintage & collectibles",Housewares,"Vintage & collectibles's Housewares Tray",X
+5,100,945,"Vintage & collectibles",Housewares,"Vintage & collectibles's Housewares Box",X
+5,100,946,"Vintage & collectibles",Housewares,Towel,
+5,100,947,"Vintage & collectibles",Housewares,"Vintage & collectibles's Housewares Table",X
+5,100,948,"Vintage & collectibles",Housewares,Coaster,
+5,100,949,"Vintage & collectibles",Housewares,"Vintage & collectibles's Housewares Pillow",X
+5,100,950,"Vintage & collectibles",Housewares,Wall,
+5,100,951,"Vintage & collectibles",Housewares,Light,
+5,100,952,"Vintage & collectibles",Housewares,"Pot holder",
+5,100,953,"Vintage & collectibles",Housewares,Magnet,
+5,100,954,"Vintage & collectibles",Housewares,"Vintage & collectibles's Housewares Other",X
+5,101,955,"Vintage & collectibles",Supplies,"Vintage & collectibles's Supplies Pattern",X
+5,101,956,"Vintage & collectibles",Supplies,Fabric,
+5,101,957,"Vintage & collectibles",Supplies,Button,
+5,101,958,"Vintage & collectibles",Supplies,"Vintage & collectibles's Supplies Trim",X
+5,101,959,"Vintage & collectibles",Supplies,Bead,
+5,101,960,"Vintage & collectibles",Supplies,Finding,
+5,101,961,"Vintage & collectibles",Supplies,Cabochon,
+5,101,962,"Vintage & collectibles",Supplies,"Vintage & collectibles's Supplies Charm",X
+5,101,963,"Vintage & collectibles",Supplies,Ephemera,
+5,101,964,"Vintage & collectibles",Supplies,Chain,
+5,101,965,"Vintage & collectibles",Supplies,Yarn,
+5,101,966,"Vintage & collectibles",Supplies,Zipper,
+5,101,967,"Vintage & collectibles",Supplies,"Vintage & collectibles's Supplies Other",X
+5,102,968,"Vintage & collectibles",Antique,"100 years or older",
+5,102,969,"Vintage & collectibles",Antique,"50 to 75 years",
+5,102,970,"Vintage & collectibles",Antique,"Paper ephemera",
+5,102,971,"Vintage & collectibles",Antique,Collectibles,
+5,102,972,"Vintage & collectibles",Antique,"75 to 100 years",
+5,102,973,"Vintage & collectibles",Antique,"Vintage & collectibles's Antique Home decor",X
+5,102,974,"Vintage & collectibles",Antique,"Vintage & collectibles's Antique Jewelry",X
+5,102,975,"Vintage & collectibles",Antique,"Vintage & collectibles's Antique Housewares",X
+5,102,976,"Vintage & collectibles",Antique,"Vintage & collectibles's Antique Supplies",X
+5,102,977,"Vintage & collectibles",Antique,Serving,
+5,102,978,"Vintage & collectibles",Antique,"Vintage & collectibles's Antique Book",X
+5,102,979,"Vintage & collectibles",Antique,"Vintage & collectibles's Antique Accessories",X
+5,102,980,"Vintage & collectibles",Antique,"Vintage & collectibles's Antique Furniture",X
+5,102,981,"Vintage & collectibles",Antique,"Vintage & collectibles's Antique Toy",X
+5,102,982,"Vintage & collectibles",Antique,"Vintage & collectibles's Antique Bags and purses",X
+5,102,983,"Vintage & collectibles",Antique,"Vintage & collectibles's Antique Electronics",X
+5,102,984,"Vintage & collectibles",Antique,"Vintage & collectibles's Antique Other",X
+5,103,985,"Vintage & collectibles","Paper ephemera",Postcard,
+5,103,986,"Vintage & collectibles","Paper ephemera",Advertisement,
+5,103,987,"Vintage & collectibles","Paper ephemera",Map,
+5,103,988,"Vintage & collectibles","Paper ephemera",Stamps,
+5,103,989,"Vintage & collectibles","Paper ephemera","Vintage & collectibles's Paper ephemera Game",X
+5,103,990,"Vintage & collectibles","Paper ephemera",Matchbox,
+5,103,991,"Vintage & collectibles","Paper ephemera","Vintage & collectibles's Paper ephemera Other",X
+5,104,992,"Vintage & collectibles",Serving,"Vintage & collectibles's Serving Bowl",X
+5,104,993,"Vintage & collectibles",Serving,"Vintage & collectibles's Serving Glassware",X
+5,104,994,"Vintage & collectibles",Serving,"Vintage & collectibles's Serving Plate",X
+5,104,995,"Vintage & collectibles",Serving,Flatware,
+5,104,996,"Vintage & collectibles",Serving,Teacup,
+5,104,997,"Vintage & collectibles",Serving,"Salt and pepper shakers",
+5,104,998,"Vintage & collectibles",Serving,Pitcher,
+5,104,999,"Vintage & collectibles",Serving,"Cream and sugar set",
+5,104,1000,"Vintage & collectibles",Serving,Mug,
+5,104,1001,"Vintage & collectibles",Serving,"Vintage & collectibles's Serving Tray",X
+5,104,1002,"Vintage & collectibles",Serving,Platter,
+5,104,1003,"Vintage & collectibles",Serving,Teapot,
+5,104,1004,"Vintage & collectibles",Serving,Casserole,
+5,104,1005,"Vintage & collectibles",Serving,"Dinnerware set",
+5,104,1006,"Vintage & collectibles",Serving,Tumbler,
+5,104,1007,"Vintage & collectibles",Serving,"Butter dish",
+5,104,1008,"Vintage & collectibles",Serving,"Vintage & collectibles's Serving Other",X
+5,105,1009,"Vintage & collectibles",Book,"Vintage & collectibles's Book Children",X
+5,105,1010,"Vintage & collectibles",Book,Comics,
+5,105,1011,"Vintage & collectibles",Book,Fiction,
+5,105,1012,"Vintage & collectibles",Book,Cookbook,
+5,105,1013,"Vintage & collectibles",Book,Instructional,
+5,105,1014,"Vintage & collectibles",Book,Illustrated,
+5,105,1015,"Vintage & collectibles",Book,"Vintage & collectibles's Book History",X
+5,105,1016,"Vintage & collectibles",Book,Nonfiction,
+5,105,1017,"Vintage & collectibles",Book,"Vintage & collectibles's Book Reference",X
+5,105,1018,"Vintage & collectibles",Book,Crafting,
+5,105,1019,"Vintage & collectibles",Book,"Vintage & collectibles's Book Art",X
+5,105,1020,"Vintage & collectibles",Book,Religion,
+5,105,1021,"Vintage & collectibles",Book,"How to",
+5,105,1022,"Vintage & collectibles",Book,Poetry,
+5,105,1023,"Vintage & collectibles",Book,Scifi,
+5,105,1024,"Vintage & collectibles",Book,Biography,
+5,105,1025,"Vintage & collectibles",Book,Decorating,
+5,105,1026,"Vintage & collectibles",Book,"Vintage & collectibles's Book Science",X
+5,105,1027,"Vintage & collectibles",Book,Health,
+5,105,1028,"Vintage & collectibles",Book,"Vintage & collectibles's Book Other",X
+5,106,1029,"Vintage & collectibles","Bags and purses",Handbag,
+5,106,1030,"Vintage & collectibles","Bags and purses","Vintage & collectibles's Bags and purses Purse",X
+5,106,1031,"Vintage & collectibles","Bags and purses","Vintage & collectibles's Bags and purses Clutch",X
+5,106,1032,"Vintage & collectibles","Bags and purses","Vintage & collectibles's Bags and purses Leather",X
+5,106,1033,"Vintage & collectibles","Bags and purses",Luggage,
+5,106,1034,"Vintage & collectibles","Bags and purses",Formal,
+5,106,1035,"Vintage & collectibles","Bags and purses","Vintage & collectibles's Bags and purses Tote",X
+5,106,1036,"Vintage & collectibles","Bags and purses","Vintage & collectibles's Bags and purses Pouch",X
+5,106,1037,"Vintage & collectibles","Bags and purses","Vintage & collectibles's Bags and purses Case",X
+5,106,1038,"Vintage & collectibles","Bags and purses","Vintage & collectibles's Bags and purses Wallet",X
+5,106,1039,"Vintage & collectibles","Bags and purses","Change purse",
+5,106,1040,"Vintage & collectibles","Bags and purses","Vintage & collectibles's Bags and purses Diaper bag",X
+5,106,1041,"Vintage & collectibles","Bags and purses","Vintage & collectibles's Bags and purses Other",X
+5,107,1042,"Vintage & collectibles",Toy,"Vintage & collectibles's Toy Doll",X
+5,107,1043,"Vintage & collectibles",Toy,"Vintage & collectibles's Toy Game",X
+5,107,1044,"Vintage & collectibles",Toy,Animal,
+5,107,1045,"Vintage & collectibles",Toy,"Action figure",
+5,107,1046,"Vintage & collectibles",Toy,"Vintage & collectibles's Toy Children",X
+5,107,1047,"Vintage & collectibles",Toy,Car,
+5,107,1048,"Vintage & collectibles",Toy,"Vintage & collectibles's Toy Puzzle",X
+5,107,1049,"Vintage & collectibles",Toy,Sport,
+5,107,1050,"Vintage & collectibles",Toy,Block,
+5,107,1051,"Vintage & collectibles",Toy,"Vintage & collectibles's Toy Electronic",X
+5,107,1052,"Vintage & collectibles",Toy,"Vintage & collectibles's Toy Other",X
+5,108,1053,"Vintage & collectibles",Electronics,Camera,
+5,108,1054,"Vintage & collectibles",Electronics,Clock,
+5,108,1055,"Vintage & collectibles",Electronics,Radio,
+5,108,1056,"Vintage & collectibles",Electronics,Telephone,
+5,108,1057,"Vintage & collectibles",Electronics,"Video game",
+5,108,1058,"Vintage & collectibles",Electronics,Television,
+5,108,1059,"Vintage & collectibles",Electronics,"Vintage & collectibles's Electronics Game",X
+5,108,1060,"Vintage & collectibles",Electronics,"Vintage & collectibles's Electronics Other",X
+5,109,1061,"Vintage & collectibles",Furniture,"Vintage & collectibles's Furniture Shelf",X
+5,109,1062,"Vintage & collectibles",Furniture,"Vintage & collectibles's Furniture Table",X
+5,109,1063,"Vintage & collectibles",Furniture,"Vintage & collectibles's Furniture Fixture",X
+5,109,1064,"Vintage & collectibles",Furniture,"Vintage & collectibles's Furniture Chair",X
+5,109,1065,"Vintage & collectibles",Furniture,"Vintage & collectibles's Furniture Mirror",X
+5,109,1066,"Vintage & collectibles",Furniture,"Vintage & collectibles's Furniture Storage",X
+5,109,1067,"Vintage & collectibles",Furniture,"Vintage & collectibles's Furniture Bench",X
+5,109,1068,"Vintage & collectibles",Furniture,"Vintage & collectibles's Furniture Dresser",X
+5,109,1069,"Vintage & collectibles",Furniture,"Vintage & collectibles's Furniture Bookcase",X
+5,109,1070,"Vintage & collectibles",Furniture,"Vintage & collectibles's Furniture Bed",X
+5,109,1071,"Vintage & collectibles",Furniture,"Vintage & collectibles's Furniture Desk",X
+5,109,1072,"Vintage & collectibles",Furniture,"Vintage & collectibles's Furniture Entertainment",X
+5,109,1073,"Vintage & collectibles",Furniture,"Vintage & collectibles's Furniture Other",X
+5,110,1074,"Vintage & collectibles","Trading cards",Animation,
+5,110,1075,"Vintage & collectibles","Trading cards","Sci-Fi, fantasy",
+5,110,1076,"Vintage & collectibles","Trading cards",Vintage,
+5,110,1077,"Vintage & collectibles","Trading cards","Vintage & collectibles's Trading cards Comic",X
+5,110,1078,"Vintage & collectibles","Trading cards","Action, adventure",
+5,110,1079,"Vintage & collectibles","Trading cards","Historical, military",
+5,110,1080,"Vintage & collectibles","Trading cards","Vintage & collectibles's Trading cards Sports",X
+5,110,1081,"Vintage & collectibles","Trading cards","Price guides & publications",
+5,110,1082,"Vintage & collectibles","Trading cards","Vintage & collectibles's Trading cards Other",X
+5,111,1083,"Vintage & collectibles",Other,"Vintage & collectibles's Other Other",X
+9,112,1084,Handmade,Housewares,"Handmade's Housewares Home decor",X
+9,112,1085,Handmade,Housewares,"Handmade's Housewares Pillows",X
+9,112,1086,Handmade,Housewares,"Wall decor",
+9,112,1087,Handmade,Housewares,"Handmade's Housewares Lighting",X
+9,112,1088,Handmade,Housewares,"Handmade's Housewares Kitchen",X
+9,112,1089,Handmade,Housewares,Entertaining/serving,
+9,112,1090,Handmade,Housewares,Bedroom,
+9,112,1091,Handmade,Housewares,"Handmade's Housewares Frames",X
+9,112,1092,Handmade,Housewares,"Handmade's Housewares Clocks",X
+9,112,1093,Handmade,Housewares,Magnets,
+9,112,1094,Handmade,Housewares,Rugs,
+9,112,1095,Handmade,Housewares,Bathroom,
+9,112,1096,Handmade,Housewares,"Handmade's Housewares Outdoor",X
+9,112,1097,Handmade,Housewares,"Handmade's Housewares Office",X
+9,112,1098,Handmade,Housewares,"Storage solutions",
+9,112,1099,Handmade,Housewares,Cleaning,
+9,112,1100,Handmade,Housewares,"Handmade's Housewares Other",X
+9,113,1101,Handmade,Art,Photography,
+9,113,1102,Handmade,Art,Print,
+9,113,1103,Handmade,Art,"Handmade's Art Painting",X
+9,113,1104,Handmade,Art,"Mixed media",
+9,113,1105,Handmade,Art,"Handmade's Art Sculptures",X
+9,113,1106,Handmade,Art,Illustration,
+9,113,1107,Handmade,Art,Collages,
+9,113,1108,Handmade,Art,"Handmade's Art Drawings",X
+9,113,1109,Handmade,Art,"Fiber art",
+9,113,1110,Handmade,Art,Printmaking,
+9,113,1111,Handmade,Art,Aceo,
+9,113,1112,Handmade,Art,"Handmade's Art Other",X
+9,114,1113,Handmade,Woodworking,"Handmade's Woodworking Home decor",X
+9,114,1114,Handmade,Woodworking,Signs,
+9,114,1115,Handmade,Woodworking,Boxes,
+9,114,1116,Handmade,Woodworking,Fretwork,
+9,114,1117,Handmade,Woodworking,Burning,
+9,114,1118,Handmade,Woodworking,"Handmade's Woodworking Sculptures",X
+9,114,1119,Handmade,Woodworking,"Handmade's Woodworking Kitchen",X
+9,114,1120,Handmade,Woodworking,Carving,
+9,114,1121,Handmade,Woodworking,"Handmade's Woodworking Outdoor",X
+9,114,1122,Handmade,Woodworking,"Handmade's Woodworking Clocks",X
+9,114,1123,Handmade,Woodworking,Seasonal,
+9,114,1124,Handmade,Woodworking,Toys,
+9,114,1125,Handmade,Woodworking,"Handmade's Woodworking Supplies",X
+9,114,1126,Handmade,Woodworking,"Handmade's Woodworking Accessories",X
+9,114,1127,Handmade,Woodworking,"Handmade's Woodworking Jewelry",X
+9,114,1128,Handmade,Woodworking,"Handmade's Woodworking Office",X
+9,114,1129,Handmade,Woodworking,"Handmade's Woodworking Sports",X
+9,114,1130,Handmade,Woodworking,"Handmade's Woodworking Miniature",X
+9,114,1131,Handmade,Woodworking,Inlay,
+9,114,1132,Handmade,Woodworking,"Handmade's Woodworking Other",X
+9,115,1133,Handmade,"Ceramics and pottery","Handmade's Ceramics and pottery Home decor",X
+9,115,1134,Handmade,"Ceramics and pottery","Handmade's Ceramics and pottery Vases",X
+9,115,1135,Handmade,"Ceramics and pottery","Handmade's Ceramics and pottery Bowls",X
+9,115,1136,Handmade,"Ceramics and pottery",Tiles,
+9,115,1137,Handmade,"Ceramics and pottery","Handmade's Ceramics and pottery Sculptures",X
+9,115,1138,Handmade,"Ceramics and pottery",Planters,
+9,115,1139,Handmade,"Ceramics and pottery","Handmade's Ceramics and pottery Kitchen",X
+9,115,1140,Handmade,"Ceramics and pottery",Jars,
+9,115,1141,Handmade,"Ceramics and pottery",Coasters,
+9,115,1142,Handmade,"Ceramics and pottery","Handmade's Ceramics and pottery Miniature",X
+9,115,1143,Handmade,"Ceramics and pottery","Soap dish",
+9,115,1144,Handmade,"Ceramics and pottery",Teapots,
+9,115,1145,Handmade,"Ceramics and pottery","Handmade's Ceramics and pottery Jewelry",X
+9,115,1146,Handmade,"Ceramics and pottery","Handmade's Ceramics and pottery Supplies",X
+9,115,1147,Handmade,"Ceramics and pottery","Handmade's Ceramics and pottery Other",X
+9,116,1148,Handmade,Glass,"Handmade's Glass Home decor",X
+9,116,1149,Handmade,Glass,"Stained glass",
+9,116,1150,Handmade,Glass,"Handmade's Glass Glassware",X
+9,116,1151,Handmade,Glass,"Handmade's Glass Vases",X
+9,116,1152,Handmade,Glass,Bottles,
+9,116,1153,Handmade,Glass,Dishes,
+9,116,1154,Handmade,Glass,"Handmade's Glass Bowls",X
+9,116,1155,Handmade,Glass,Paperweights,
+9,116,1156,Handmade,Glass,"Handmade's Glass Sculptures",X
+9,116,1157,Handmade,Glass,Ornaments,
+9,116,1158,Handmade,Glass,Windchimes,
+9,116,1159,Handmade,Glass,"Handmade's Glass Mirrors",X
+9,116,1160,Handmade,Glass,Beads,
+9,116,1161,Handmade,Glass,"Handmade's Glass Supplies",X
+9,116,1162,Handmade,Glass,"Handmade's Glass Jewelry",X
+9,116,1163,Handmade,Glass,Marbles,
+9,116,1164,Handmade,Glass,"Handmade's Glass Other",X
+9,117,1165,Handmade,Others,Custom,
+9,117,1166,Handmade,Others,Personalized,
+9,117,1167,Handmade,Others,"Graphic design",
+9,117,1168,Handmade,Others,Religious,
+9,117,1169,Handmade,Others,"Handmade's Others Magic",X
+9,117,1170,Handmade,Others,Educational,
+9,117,1171,Handmade,Others,"Handmade's Others Other",X
+9,118,1172,Handmade,Weddings,Decorations,
+9,118,1173,Handmade,Weddings,Favors,
+9,118,1174,Handmade,Weddings,"Cake toppers",
+9,118,1175,Handmade,Weddings,"Handmade's Weddings Frames",X
+9,118,1176,Handmade,Weddings,"Handmade's Weddings Accessories",X
+9,118,1177,Handmade,Weddings,Bouquets,
+9,118,1178,Handmade,Weddings,"Just married",
+9,118,1179,Handmade,Weddings,Candles,
+9,118,1180,Handmade,Weddings,"Guest books",
+9,118,1181,Handmade,Weddings,"Handmade's Weddings Pillows",X
+9,118,1182,Handmade,Weddings,Invitations,
+9,118,1183,Handmade,Weddings,Albums,
+9,118,1184,Handmade,Weddings,"Handmade's Weddings Cards",X
+9,118,1185,Handmade,Weddings,"Something blue",
+9,118,1186,Handmade,Weddings,Portraits,
+9,118,1187,Handmade,Weddings,"Handmade's Weddings Men",X
+9,118,1188,Handmade,Weddings,"Handmade's Weddings Jewelry",X
+9,118,1189,Handmade,Weddings,"Handmade's Weddings Bags and purses",X
+9,118,1190,Handmade,Weddings,"Handmade's Weddings Clothing",X
+9,118,1191,Handmade,Weddings,"Handmade's Weddings Other",X
+9,119,1192,Handmade,Holidays,"Handmade's Holidays Christmas",X
+9,119,1193,Handmade,Holidays,"Handmade's Holidays Easter",X
+9,119,1194,Handmade,Holidays,"Handmade's Holidays Halloween",X
+9,119,1195,Handmade,Holidays,"Handmade's Holidays Valentine",X
+9,119,1196,Handmade,Holidays,"Handmade's Holidays Patriotic",X
+9,119,1197,Handmade,Holidays,"Handmade's Holidays Thanksgiving",X
+9,119,1198,Handmade,Holidays,"Handmade's Holidays Birthday",X
+9,119,1199,Handmade,Holidays,"St Patricks",
+9,119,1200,Handmade,Holidays,"Handmade's Holidays Hanukkah",X
+9,119,1201,Handmade,Holidays,"Handmade's Holidays Day of the dead",X
+9,119,1202,Handmade,Holidays,"New years",
+9,119,1203,Handmade,Holidays,"Handmade's Holidays Other",X
+9,120,1204,Handmade,"Dolls and miniatures","Scale dollhouse miniature",
+9,120,1205,Handmade,"Dolls and miniatures","Handmade's Dolls and miniatures Miniature",X
+9,120,1206,Handmade,"Dolls and miniatures",Primitive,
+9,120,1207,Handmade,"Dolls and miniatures","Art doll",
+9,120,1208,Handmade,"Dolls and miniatures",Animals,
+9,120,1209,Handmade,"Dolls and miniatures","Handmade's Dolls and miniatures Waldorf",X
+9,120,1210,Handmade,"Dolls and miniatures","Handmade's Dolls and miniatures Plush",X
+9,120,1211,Handmade,"Dolls and miniatures","Soft sculpture",
+9,120,1212,Handmade,"Dolls and miniatures","Handmade's Dolls and miniatures Fantasy",X
+9,120,1213,Handmade,"Dolls and miniatures",Figurines,
+9,120,1214,Handmade,"Dolls and miniatures","Child friendly",
+9,120,1215,Handmade,"Dolls and miniatures","Artist bears",
+9,120,1216,Handmade,"Dolls and miniatures","Handmade's Dolls and miniatures Amigurumi",X
+9,120,1217,Handmade,"Dolls and miniatures","Human figure doll",
+9,120,1218,Handmade,"Dolls and miniatures","Scale models",
+9,120,1219,Handmade,"Dolls and miniatures","Fashion dolls apparel",
+9,120,1220,Handmade,"Dolls and miniatures",Puppets,
+9,120,1221,Handmade,"Dolls and miniatures","Handmade's Dolls and miniatures Other",X
+9,121,1222,Handmade,Children,"Handmade's Children Housewares",X
+9,121,1223,Handmade,Children,"Handmade's Children Art",X
+9,121,1224,Handmade,Children,"Handmade's Children Baby",X
+9,121,1225,Handmade,Children,"Handmade's Children Toy",X
+9,121,1226,Handmade,Children,"Handmade's Children Accessories",X
+9,121,1227,Handmade,Children,"Handmade's Children Furniture",X
+9,121,1228,Handmade,Children,Toddler,
+9,121,1229,Handmade,Children,"Handmade's Children Clothing",X
+9,121,1230,Handmade,Children,"Handmade's Children Bath",X
+9,121,1231,Handmade,Children,"Handmade's Children Jewelry",X
+9,121,1232,Handmade,Children,"Handmade's Children Other",X
+9,122,1233,Handmade,Needlecraft,"Handmade's Needlecraft Embroidery",X
+9,122,1234,Handmade,Needlecraft,"Handmade's Needlecraft Pillow",X
+9,122,1235,Handmade,Needlecraft,"Handmade's Needlecraft Cross stitch",X
+9,122,1236,Handmade,Needlecraft,Needlepoint,
+9,122,1237,Handmade,Needlecraft,Felted,
+9,122,1238,Handmade,Needlecraft,Pincushion,
+9,122,1239,Handmade,Needlecraft,"Handmade's Needlecraft Pattern",X
+9,122,1240,Handmade,Needlecraft,Holidays,
+9,122,1241,Handmade,Needlecraft,"Handmade's Needlecraft Accessories",X
+9,122,1242,Handmade,Needlecraft,"Handmade's Needlecraft Doll",X
+9,122,1243,Handmade,Needlecraft,"Handmade's Needlecraft Supplies",X
+9,122,1244,Handmade,Needlecraft,"Handmade's Needlecraft Clothing",X
+9,122,1245,Handmade,Needlecraft,"Handmade's Needlecraft Other",X
+9,123,1246,Handmade,Geekery,"Handmade's Geekery Housewares",X
+9,123,1247,Handmade,Geekery,Humor,
+9,123,1248,Handmade,Geekery,Kitsch,
+9,123,1249,Handmade,Geekery,"Handmade's Geekery Science",X
+9,123,1250,Handmade,Geekery,"Handmade's Geekery Electronic",X
+9,123,1251,Handmade,Geekery,Accessory,
+9,123,1252,Handmade,Geekery,Computer,
+9,123,1253,Handmade,Geekery,Gadget,
+9,123,1254,Handmade,Geekery,Videogame,
+9,123,1255,Handmade,Geekery,"Handmade's Geekery Fantasy",X
+9,123,1256,Handmade,Geekery,Robot,
+9,123,1257,Handmade,Geekery,Horror,
+9,123,1258,Handmade,Geekery,Weird,
+9,123,1259,Handmade,Geekery,"Handmade's Geekery Magic",X
+9,123,1260,Handmade,Geekery,"Handmade's Geekery Toy",X
+9,123,1261,Handmade,Geekery,"Handmade's Geekery Jewelry",X
+9,123,1262,Handmade,Geekery,"Handmade's Geekery Other",X
+9,124,1263,Handmade,"Paper goods","Handmade's Paper goods Sticker",X
+9,124,1264,Handmade,"Paper goods","Handmade's Paper goods Cards",X
+9,124,1265,Handmade,"Paper goods","Handmade's Paper goods Origami",X
+9,124,1266,Handmade,"Paper goods","Handmade's Paper goods Scrapbooking",X
+9,124,1267,Handmade,"Paper goods","Handmade's Paper goods Papermaking",X
+9,124,1268,Handmade,"Paper goods","Handmade's Paper goods Stationery",X
+9,124,1269,Handmade,"Paper goods","Handmade's Paper goods Tag",X
+9,124,1270,Handmade,"Paper goods","Handmade's Paper goods Calendar",X
+9,124,1271,Handmade,"Paper goods","Handmade's Paper goods Gift wrap",X
+9,124,1272,Handmade,"Paper goods","Handmade's Paper goods Journal",X
+9,124,1273,Handmade,"Paper goods","Handmade's Paper goods Notebook",X
+9,124,1274,Handmade,"Paper goods","Handmade's Paper goods Bookplate",X
+9,124,1275,Handmade,"Paper goods","Handmade's Paper goods Pad",X
+9,124,1276,Handmade,"Paper goods","Handmade's Paper goods Bookmark",X
+9,124,1277,Handmade,"Paper goods","Handmade's Paper goods Other",X
+9,125,1278,Handmade,Candles,"Handmade's Candles Sticker",X
+9,125,1279,Handmade,Candles,"Handmade's Candles Cards",X
+9,125,1280,Handmade,Candles,"Handmade's Candles Origami",X
+9,125,1281,Handmade,Candles,"Handmade's Candles Scrapbooking",X
+9,125,1282,Handmade,Candles,"Handmade's Candles Papermaking",X
+9,125,1283,Handmade,Candles,"Handmade's Candles Stationery",X
+9,125,1284,Handmade,Candles,"Handmade's Candles Tag",X
+9,125,1285,Handmade,Candles,"Handmade's Candles Calendar",X
+9,125,1286,Handmade,Candles,"Handmade's Candles Gift wrap",X
+9,125,1287,Handmade,Candles,"Handmade's Candles Journal",X
+9,125,1288,Handmade,Candles,"Handmade's Candles Notebook",X
+9,125,1289,Handmade,Candles,"Handmade's Candles Bookplate",X
+9,125,1290,Handmade,Candles,"Handmade's Candles Pad",X
+9,125,1291,Handmade,Candles,"Handmade's Candles Bookmark",X
+9,125,1292,Handmade,Candles,"Handmade's Candles Other",X
+9,126,1293,Handmade,Patterns,Crochet,
+9,126,1294,Handmade,Patterns,Beading,
+9,126,1295,Handmade,Patterns,"Handmade's Patterns Cross stitch",X
+9,126,1296,Handmade,Patterns,Handmade,
+9,126,1297,Handmade,Patterns,"Handmade's Patterns Embroidery",X
+9,126,1298,Handmade,Patterns,Sewing,
+9,126,1299,Handmade,Patterns,Home,
+9,126,1300,Handmade,Patterns,Quilt,
+9,126,1301,Handmade,Patterns,Holiday,
+9,126,1302,Handmade,Patterns,"Handmade's Patterns Painting",X
+9,126,1303,Handmade,Patterns,Knitting,
+9,126,1304,Handmade,Patterns,"Handmade's Patterns Amigurumi",X
+9,126,1305,Handmade,Patterns,Plushie,
+9,126,1306,Handmade,Patterns,"Handmade's Patterns Accessories",X
+9,126,1307,Handmade,Patterns,"Handmade's Patterns Baby",X
+9,126,1308,Handmade,Patterns,"Handmade's Patterns Clothing",X
+9,126,1309,Handmade,Patterns,"Doll clothing",
+9,126,1310,Handmade,Patterns,"Handmade's Patterns Other",X
+9,127,1311,Handmade,Crochet,"Handmade's Crochet Housewares",X
+9,127,1312,Handmade,Crochet,Afghan,
+9,127,1313,Handmade,Crochet,"Handmade's Crochet Supplies",X
+9,127,1314,Handmade,Crochet,"Handmade's Crochet Accessories",X
+9,127,1315,Handmade,Crochet,"Handmade's Crochet Doll",X
+9,127,1316,Handmade,Crochet,"Handmade's Crochet Hat",X
+9,127,1317,Handmade,Crochet,"Handmade's Crochet Bags and purses",X
+9,127,1318,Handmade,Crochet,"Handmade's Crochet Scarf",X
+9,127,1319,Handmade,Crochet,"Handmade's Crochet Clothing",X
+9,127,1320,Handmade,Crochet,"Handmade's Crochet Jewelry",X
+9,127,1321,Handmade,Crochet,"Handmade's Crochet Other",X
+9,128,1322,Handmade,Furniture,"Handmade's Furniture Shelf",X
+9,128,1323,Handmade,Furniture,"Handmade's Furniture Table",X
+9,128,1324,Handmade,Furniture,"Handmade's Furniture Fixture",X
+9,128,1325,Handmade,Furniture,"Handmade's Furniture Chair",X
+9,128,1326,Handmade,Furniture,"Handmade's Furniture Mirror",X
+9,128,1327,Handmade,Furniture,"Handmade's Furniture Storage",X
+9,128,1328,Handmade,Furniture,"Handmade's Furniture Bench",X
+9,128,1329,Handmade,Furniture,"Handmade's Furniture Dresser",X
+9,128,1330,Handmade,Furniture,"Handmade's Furniture Bookcase",X
+9,128,1331,Handmade,Furniture,"Handmade's Furniture Bed",X
+9,128,1332,Handmade,Furniture,"Handmade's Furniture Desk",X
+9,128,1333,Handmade,Furniture,"Handmade's Furniture Entertainment",X
+9,128,1334,Handmade,Furniture,"Handmade's Furniture Other",X
+9,129,1335,Handmade,Quilts,"Table runner",
+9,129,1336,Handmade,Quilts,"Handmade's Quilts Wall hanging",X
+9,129,1337,Handmade,Quilts,"Handmade's Quilts Bed",X
+9,129,1338,Handmade,Quilts,Patchwork,
+9,129,1339,Handmade,Quilts,"Handmade's Quilts Pillow",X
+9,129,1340,Handmade,Quilts,Traditional,
+9,129,1341,Handmade,Quilts,"Handmade's Quilts Mini",X
+9,129,1342,Handmade,Quilts,"Handmade's Quilts Baby",X
+9,129,1343,Handmade,Quilts,Applique,
+9,129,1344,Handmade,Quilts,Geometric,
+9,129,1345,Handmade,Quilts,Rag,
+9,129,1346,Handmade,Quilts,"Fabric postcard",
+9,129,1347,Handmade,Quilts,"Handmade's Quilts Patch",X
+9,129,1348,Handmade,Quilts,Crazy,
+9,129,1349,Handmade,Quilts,"Handmade's Quilts Trim",X
+9,129,1350,Handmade,Quilts,"Handmade's Quilts Other",X
+9,130,1351,Handmade,Accessories,"Handmade's Accessories Women",X
+9,130,1352,Handmade,Accessories,"Handmade's Accessories Apron",X
+9,130,1353,Handmade,Accessories,"Handmade's Accessories Case",X
+9,130,1354,Handmade,Accessories,"Handmade's Accessories Keychain",X
+9,130,1355,Handmade,Accessories,"Handmade's Accessories Mirror",X
+9,130,1356,Handmade,Accessories,"Handmade's Accessories Cozy",X
+9,130,1357,Handmade,Accessories,"Handmade's Accessories Patch",X
+9,130,1358,Handmade,Accessories,Pin,
+9,130,1359,Handmade,Accessories,"Handmade's Accessories Scarf",X
+9,130,1360,Handmade,Accessories,"Handmade's Accessories Charm",X
+9,130,1361,Handmade,Accessories,Hair,
+9,130,1362,Handmade,Accessories,"Handmade's Accessories Shawl",X
+9,130,1363,Handmade,Accessories,"Handmade's Accessories Men",X
+9,130,1364,Handmade,Accessories,"Leg warmers",
+9,130,1365,Handmade,Accessories,"Handmade's Accessories Eyewear",X
+9,130,1366,Handmade,Accessories,"Pinback button",
+9,130,1367,Handmade,Accessories,"Handmade's Accessories Hat",X
+9,130,1368,Handmade,Accessories,"Handmade's Accessories Belt",X
+9,130,1369,Handmade,Accessories,"Handmade's Accessories Gloves",X
+9,130,1370,Handmade,Accessories,Cuff,
+9,130,1371,Handmade,Accessories,"Handmade's Accessories Wallet",X
+9,130,1372,Handmade,Accessories,Lanyard,
+9,130,1373,Handmade,Accessories,"Handmade's Accessories Watch",X
+9,130,1374,Handmade,Accessories,"Handmade's Accessories Necktie",X
+9,130,1375,Handmade,Accessories,"Handmade's Accessories Other",X
+9,131,1376,Handmade,Pets,"Pet lover",
+9,131,1377,Handmade,Pets,"Handmade's Pets Bed",X
+9,131,1378,Handmade,Pets,Portrait,
+9,131,1379,Handmade,Pets,"Handmade's Pets Bowl",X
+9,131,1380,Handmade,Pets,Feeding,
+9,131,1381,Handmade,Pets,House,
+9,131,1382,Handmade,Pets,"Handmade's Pets Accessories",X
+9,131,1383,Handmade,Pets,"Handmade's Pets Pillow",X
+9,131,1384,Handmade,Pets,"Handmade's Pets Blanket",X
+9,131,1385,Handmade,Pets,"Small animal",
+9,131,1386,Handmade,Pets,"Handmade's Pets Toy",X
+9,131,1387,Handmade,Pets,Grooming,
+9,131,1388,Handmade,Pets,Collar,
+9,131,1389,Handmade,Pets,Leash,
+9,131,1390,Handmade,Pets,Treat,
+9,131,1391,Handmade,Pets,"Handmade's Pets Clothing",X
+9,131,1392,Handmade,Pets,"Handmade's Pets Tag",X
+9,131,1393,Handmade,Pets,"Handmade's Pets Other",X
+9,132,1394,Handmade,Toys,"Handmade's Toys Plush",X
+9,132,1395,Handmade,Toys,"Handmade's Toys Children",X
+9,132,1396,Handmade,Toys,"Handmade's Toys Waldorf",X
+9,132,1397,Handmade,Toys,"Handmade's Toys Doll",X
+9,132,1398,Handmade,Toys,"Handmade's Toys Miniature",X
+9,132,1399,Handmade,Toys,Food,
+9,132,1400,Handmade,Toys,"Handmade's Toys Puzzle",X
+9,132,1401,Handmade,Toys,"Handmade's Toys Baby",X
+9,132,1402,Handmade,Toys,Pretend,
+9,132,1403,Handmade,Toys,Bear,
+9,132,1404,Handmade,Toys,"Handmade's Toys Amigurumi",X
+9,132,1405,Handmade,Toys,"Handmade's Toys Game",X
+9,132,1406,Handmade,Toys,Puppet,
+9,132,1407,Handmade,Toys,"Doll clothes",
+9,132,1408,Handmade,Toys,"Handmade's Toys Sports",X
+9,132,1409,Handmade,Toys,Blythe,
+9,132,1410,Handmade,Toys,"Handmade's Toys Other",X
+9,133,1411,Handmade,"Plants and edibles",Plant,
+9,133,1412,Handmade,"Plants and edibles","Dried herb",
+9,133,1413,Handmade,"Plants and edibles",Candy,
+9,133,1414,Handmade,"Plants and edibles",Tea,
+9,133,1415,Handmade,"Plants and edibles",Vegan,
+9,133,1416,Handmade,"Plants and edibles",Spice,
+9,133,1417,Handmade,"Plants and edibles",Coffee,
+9,133,1418,Handmade,"Plants and edibles","Handmade's Plants and edibles Other",X
+9,134,1419,Handmade,Knitting,"Handmade's Knitting Housewares",X
+9,134,1420,Handmade,Knitting,"Handmade's Knitting Blanket",X
+9,134,1421,Handmade,Knitting,"Knitting supplies",
+9,134,1422,Handmade,Knitting,"Handmade's Knitting Cozy",X
+9,134,1423,Handmade,Knitting,"Handmade's Knitting Accessories",X
+9,134,1424,Handmade,Knitting,"Handmade's Knitting Sweater",X
+9,134,1425,Handmade,Knitting,"Handmade's Knitting Children",X
+9,134,1426,Handmade,Knitting,"Handmade's Knitting Doll",X
+9,134,1427,Handmade,Knitting,"Handmade's Knitting Clothing",X
+9,134,1428,Handmade,Knitting,"Handmade's Knitting Baby",X
+9,134,1429,Handmade,Knitting,"Handmade's Knitting Bags and purses",X
+9,134,1430,Handmade,Knitting,"Handmade's Knitting Hat",X
+9,134,1431,Handmade,Knitting,"Handmade's Knitting Women",X
+9,134,1432,Handmade,Knitting,"Handmade's Knitting Men",X
+9,134,1433,Handmade,Knitting,"Handmade's Knitting Scarf",X
+9,134,1434,Handmade,Knitting,"Handmade's Knitting Other",X
+9,135,1435,Handmade,"Bags and purses","Handmade's Bags and purses Tote",X
+9,135,1436,Handmade,"Bags and purses","Handmade's Bags and purses Purse",X
+9,135,1437,Handmade,"Bags and purses","Handmade's Bags and purses Pouch",X
+9,135,1438,Handmade,"Bags and purses",Novelty,
+9,135,1439,Handmade,"Bags and purses",Messenger,
+9,135,1440,Handmade,"Bags and purses",Wristlet,
+9,135,1441,Handmade,"Bags and purses","Handmade's Bags and purses Clutch",X
+9,135,1442,Handmade,"Bags and purses","Handmade's Bags and purses Wallet",X
+9,135,1443,Handmade,"Bags and purses","Handmade's Bags and purses Diaper bag",X
+9,135,1444,Handmade,"Bags and purses",Laptop,
+9,135,1445,Handmade,"Bags and purses",Backpack,
+9,135,1446,Handmade,"Bags and purses","Hip bag",
+9,135,1447,Handmade,"Bags and purses","Handmade's Bags and purses Other",X
+9,136,1448,Handmade,Jewelry,"Handmade's Jewelry Jewelry",X
+9,136,1449,Handmade,Jewelry,"Books and zines",
+9,136,1450,Handmade,Jewelry,"Handmade's Jewelry Clothing",X
+9,136,1451,Handmade,Jewelry,Music,
+9,136,1452,Handmade,Jewelry,"Handmade's Jewelry Other",X
+9,137,1453,Handmade,"Books and zines","Handmade's Books and zines Book",X
+9,137,1454,Handmade,"Books and zines","Handmade's Books and zines Journal",X
+9,137,1455,Handmade,"Books and zines","Handmade's Books and zines Bookmark",X
+9,137,1456,Handmade,"Books and zines",Album,
+9,137,1457,Handmade,"Books and zines",Zine,
+9,137,1458,Handmade,"Books and zines","Handmade's Books and zines Comic",X
+9,137,1459,Handmade,"Books and zines","Handmade's Books and zines Other",X
+9,138,1460,Handmade,Clothing,"Handmade's Clothing Shoes",X
+9,138,1461,Handmade,Clothing,"Handmade's Clothing Tshirt",X
+9,138,1462,Handmade,Clothing,"Handmade's Clothing Women",X
+9,138,1463,Handmade,Clothing,Costume,
+9,138,1464,Handmade,Clothing,"Handmade's Clothing Children",X
+9,138,1465,Handmade,Clothing,"Handmade's Clothing Shirt",X
+9,138,1466,Handmade,Clothing,"Handmade's Clothing Shawl",X
+9,138,1467,Handmade,Clothing,"Handmade's Clothing Men",X
+9,138,1468,Handmade,Clothing,Lingerie,
+9,138,1469,Handmade,Clothing,"Handmade's Clothing Dress",X
+9,138,1470,Handmade,Clothing,"Handmade's Clothing Corset",X
+9,138,1471,Handmade,Clothing,"Handmade's Clothing Other",X
+9,139,1472,Handmade,Music,Vinyl,
+9,139,1473,Handmade,Music,Poster,
+9,139,1474,Handmade,Music,Instrument,
+9,139,1475,Handmade,Music,Equipment,
+9,139,1476,Handmade,Music,"Handmade's Music Case",X
+9,139,1477,Handmade,Music,Tape,
+9,139,1478,Handmade,Music,"Handmade's Music Other",X
+9,140,1479,Handmade,Other,"Handmade's Other Other",X
+10,141,1480,Other,Books,"Other's Books Reference",X
+10,141,1481,Other,Books,"Other's Books History",X
+10,141,1482,Other,Books,"Literature & fiction",
+10,141,1483,Other,Books,"Business & money",
+10,141,1484,Other,Books,"Politics & social sciences",
+10,141,1485,Other,Books,"Science & math",
+10,141,1486,Other,Books,"Religion & spirituality",
+10,141,1487,Other,Books,"Children's books",
+10,141,1488,Other,Books,"Arts & photography",
+10,141,1489,Other,Books,"Education & teaching",
+10,141,1490,Other,Books,"Medical books",
+10,141,1491,Other,Books,"Engineering & transportation",
+10,141,1492,Other,Books,"Biographies & memoirs",
+10,141,1493,Other,Books,"Christian books & bibles",
+10,141,1494,Other,Books,"Other's Books Other",X
+10,142,1495,Other,Magazines,"Lifestyle & cultures",
+10,142,1496,Other,Magazines,"International publications",
+10,142,1497,Other,Magazines,"Professional & trade",
+10,142,1498,Other,Magazines,"Other's Magazines Other",X
+10,143,1499,Other,"Pet supplies",Dogs,
+10,143,1500,Other,"Pet supplies",Cats,
+10,143,1501,Other,"Pet supplies","Small animals",
+10,143,1502,Other,"Pet supplies",Birds,
+10,143,1503,Other,"Pet supplies",Fish,
+10,143,1504,Other,"Pet supplies",Reptile/amphibian,
+10,143,1505,Other,"Pet supplies",Bugs,
+10,143,1506,Other,"Pet supplies",Cage,
+10,143,1507,Other,"Pet supplies","Pet food",
+10,143,1508,Other,"Pet supplies",Others,
+10,144,1509,Other,"Daily & travel items","Baby & child care",
+10,144,1510,Other,"Daily & travel items","Health care",
+10,144,1511,Other,"Daily & travel items","Household supplies",
+10,144,1512,Other,"Daily & travel items","Medical supplies & equipment",
+10,144,1513,Other,"Daily & travel items","Personal care",
+10,144,1514,Other,"Daily & travel items","Sports nutrition",
+10,144,1515,Other,"Daily & travel items","Stationery & party supplies",
+10,144,1516,Other,"Daily & travel items","Other's Daily & travel items Other",X
+10,145,1517,Other,Automotive,"Car care",
+10,145,1518,Other,Automotive,"Car electronics & accessories",
+10,145,1519,Other,Automotive,"Exterior accessories",
+10,145,1520,Other,Automotive,"Interior accessories",
+10,145,1521,Other,Automotive,"Lights & lighting accessories",
+10,145,1522,Other,Automotive,"Motorcycle & powersports",
+10,145,1523,Other,Automotive,"Oils & fluids",
+10,145,1524,Other,Automotive,"Paint, body & trim",
+10,145,1525,Other,Automotive,"Performance parts & accessories",
+10,145,1526,Other,Automotive,"Other's Automotive Replacement parts",X
+10,145,1527,Other,Automotive,"RV parts & accessories",
+10,145,1528,Other,Automotive,"Tires & wheels",
+10,145,1529,Other,Automotive,"Tools & equipment",
+10,145,1530,Other,Automotive,"Automotive enthusiast merchandise",
+10,145,1531,Other,Automotive,"Other's Automotive Other",X
+10,146,1532,Other,"Office supplies","Basic supplies",
+10,146,1533,Other,"Office supplies","School supplies",
+10,146,1534,Other,"Office supplies","Ink & toner",
+10,146,1535,Other,"Office supplies",Paper,
+10,146,1536,Other,"Office supplies",Writing,
+10,146,1537,Other,"Office supplies","Other's Office supplies Electronics",X
+10,146,1538,Other,"Office supplies",Organization,
+10,146,1539,Other,"Office supplies","Shipping supplies",
+10,146,1540,Other,"Office supplies",Calendars,
+10,146,1541,Other,"Office supplies",Presentation,
+10,146,1542,Other,"Office supplies","Other's Office supplies Furniture",X
+10,146,1543,Other,"Office supplies","Other's Office supplies Other",X
+10,147,1544,Other,"Musical instruments",Guitars,
+10,147,1545,Other,"Musical instruments","Bass guitars",
+10,147,1546,Other,"Musical instruments","Drums & percussion",
+10,147,1547,Other,"Musical instruments",Keyboards,
+10,147,1548,Other,"Musical instruments","Amplifiers & effects",
+10,147,1549,Other,"Musical instruments","Microphones & accessories",
+10,147,1550,Other,"Musical instruments","Brass instruments",
+10,147,1551,Other,"Musical instruments","Stringed instruments",
+10,147,1552,Other,"Musical instruments","Wind & woodwind instruments",
+10,147,1553,Other,"Musical instruments","Band & orchestra",
+10,147,1554,Other,"Musical instruments","Instrument accessories",
+10,147,1555,Other,"Musical instruments","Live sound & stage",
+10,147,1556,Other,"Musical instruments","Studio recording equipment",
+10,147,1557,Other,"Musical instruments","DJ, electronic music & karaoke",
+10,147,1558,Other,"Musical instruments","Other's Musical instruments Other",X
+10,148,1559,Other,Other,"Other's Other Other",X
+2,38,1560,Men,"Men's accessories","Men's Men's accessories Wallets",X
+1,1561,1562,Women,Underwear,"G-strings & thongs",
+1,1561,1563,Women,Underwear,Panties,
+1,1561,1564,Women,Underwear,"Thermal underwear",
+1,1561,1565,Women,Underwear,Bras,
+1,1561,1566,Women,Underwear,"Women's Underwear Other",X
+3,41,1567,Kids,"Girls 0-24 mos","Kids's Girls 0-24 mos Coats & jackets",X
+3,42,1568,Kids,"Girls 2t-5t","Kids's Girls 2t-5t Coats & jackets",X
+3,43,1569,Kids,"Girls (4+)","Kids's Girls (4+) Coats & jackets",X
+3,44,1570,Kids,"Boys 0-24 mos","Kids's Boys 0-24 mos Coats & jackets",X
+3,45,1571,Kids,"Boys 2t-5t","Kids's Boys 2t-5t Coats & jackets",X
+3,46,1572,Kids,"Boys (4+)","Kids's Boys (4+) Coats & jackets",X
